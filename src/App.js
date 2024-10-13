@@ -1,26 +1,87 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import Optimizer from "./components/Optimizer";
+import Planner from "./components/Planner";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      activeRoute: "planner",
+      pendingUpdate: false,
+      toPlanner: {
+        class: "Accursed",
+        lvl: 1,
+        stats: {
+          VIGOR: 0,
+          ATTUNEMENT: 0,
+          ENDURANCE: 0,
+          VITALITY: 0,
+          STRENGTH: 0,
+          DEXTERITY: 0,
+          INTELLIGENCE: 0,
+          FAITH: 0,
+          LUCK: 0,
+        },
+      },
+    };
+
+    this.sendToPlanner = this.sendToPlanner.bind(this);
+    this.finishUpdate = this.finishUpdate.bind(this);
+  }
+
+  finishUpdate() {
+    this.setState({ pendingUpdate: false });
+  }
+
+  sendToPlanner(newBuild) {
+    this.setState({
+      activeRoute: "planner",
+      toPlanner: newBuild,
+      pendingUpdate: true,
+    });
+  }
+
+  render() {
+    return (
+      <div className="app">
+        <div className="nav">
+          Cinders 1.73 -
+          <span
+            className={`nav-item ${this.state.activeRoute === "planner" ? "active embers" : ""}`}
+            onClick={() => this.setState({ activeRoute: "planner" })}
+          >
+            Build Planner
+          </span>
+          <span
+            className={`nav-item ${this.state.activeRoute === "optimizer" ? "active embers" : ""}`}
+            onClick={() => this.setState({ activeRoute: "optimizer" })}
+          >
+            Class Optimizer
+          </span>
+        </div>
+        <div
+          style={{
+            display: this.state.activeRoute === "planner" ? "block" : "none",
+          }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+          <Planner
+            newBuild={this.state.toPlanner}
+            pending={this.state.pendingUpdate}
+            finishUpdate={this.finishUpdate}
+          />
+        </div>
+        <div
+          style={{
+            display: this.state.activeRoute === "optimizer" ? "block" : "none",
+          }}
+        >
+          <Optimizer send={this.sendToPlanner} />
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;

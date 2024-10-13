@@ -1,0 +1,3426 @@
+{
+  "Archdeacon Skirt": {
+    "name": "Archdeacon Skirt",
+    "poise": "1.5",
+    "durability": "23",
+    "weight": "2.4",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "26",
+      "poison": "27",
+      "curse": "75"
+    }
+  },
+  "Old Sorcerer Boots": {
+    "name": "Old Sorcerer Boots",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "20",
+      "poison": "23",
+      "curse": "42"
+    }
+  },
+  "Deacon Skirt": {
+    "name": "Deacon Skirt",
+    "poise": "1.5",
+    "durability": "22",
+    "weight": "1.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "22",
+      "poison": "26",
+      "curse": "70"
+    }
+  },
+  "Deserter Trousers": {
+    "name": "Deserter Trousers",
+    "poise": "9.0",
+    "durability": "25",
+    "weight": "4.5",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "4.8",
+        "slash": "5.6",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "8.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "34",
+      "curse": "25"
+    }
+  },
+  "Ordained Trousers": {
+    "name": "Ordained Trousers",
+    "poise": "4.5",
+    "durability": "23",
+    "weight": "2.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "30",
+      "poison": "33",
+      "curse": "43"
+    }
+  },
+  "Dragonrider Leggings": {
+    "name": "Dragonrider Leggings",
+    "poise": "27.9",
+    "durability": "45",
+    "weight": "15.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "15.2",
+        "slash": "17.6",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "43",
+      "poison": "38",
+      "curse": "23"
+    }
+  },
+  "Sunset Leggings": {
+    "name": "Sunset Leggings",
+    "poise": "21.0",
+    "durability": "37",
+    "weight": "9.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "11.6",
+        "strike": "10.0",
+        "slash": "10.8",
+        "thrust": "10.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "26",
+      "poison": "35",
+      "curse": "26"
+    }
+  },
+  "Leggings of Favor": {
+    "name": "Leggings of Favor",
+    "poise": "21.6",
+    "durability": "38",
+    "weight": "9.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.4",
+        "slash": "11.2",
+        "thrust": "10.8"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "32",
+      "poison": "29",
+      "curse": "24"
+    }
+  },
+  "Iron Leggings": {
+    "name": "Iron Leggings",
+    "poise": "19.2",
+    "durability": "35",
+    "weight": "7.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "9.6",
+        "strike": "8.0",
+        "slash": "8.8",
+        "thrust": "8.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "19",
+      "poison": "17",
+      "curse": "16"
+    }
+  },
+  "Black Knight Leggings": {
+    "name": "Black Knight Leggings",
+    "poise": "25.2",
+    "durability": "40",
+    "weight": "13.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.8",
+        "strike": "13.2",
+        "slash": "14.0",
+        "thrust": "13.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "26",
+      "poison": "27",
+      "curse": "26"
+    }
+  },
+  "Drakekeeper Leggings": {
+    "name": "Drakekeeper Leggings",
+    "poise": "27.6",
+    "durability": "45",
+    "weight": "15.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "16.0",
+        "lightning": "16.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "38",
+      "poison": "38",
+      "curse": "26"
+    }
+  },
+  "Varangian Leggings": {
+    "name": "Varangian Leggings",
+    "poise": "18.6",
+    "durability": "33",
+    "weight": "6.6",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "8.8",
+        "strike": "7.2",
+        "slash": "8.0",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "13.2",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "20",
+      "poison": "21",
+      "curse": "20"
+    }
+  },
+  "Pale Shade Trousers": {
+    "name": "Pale Shade Trousers",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "13.2",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "148",
+      "poison": "35",
+      "curse": "44"
+    }
+  },
+  "Antiquated Loincloth": {
+    "name": "Antiquated Loincloth",
+    "poise": "3.0",
+    "durability": "21",
+    "weight": "1.8",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "29",
+      "curse": "37"
+    }
+  },
+  "Brass Leggings": {
+    "name": "Brass Leggings",
+    "poise": "22.2",
+    "durability": "38",
+    "weight": "10.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.4",
+        "strike": "10.8",
+        "slash": "11.6",
+        "thrust": "11.2"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "32",
+      "poison": "29",
+      "curse": "24"
+    }
+  },
+  "Black Dragon Leggings": {
+    "name": "Black Dragon Leggings",
+    "poise": "22.8",
+    "durability": "41",
+    "weight": "10.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "13.2",
+        "strike": "11.6",
+        "slash": "12.4",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "25",
+      "poison": "23",
+      "curse": "17"
+    }
+  },
+  "Firelink Leggings": {
+    "name": "Firelink Leggings",
+    "poise": "22.5",
+    "durability": "28",
+    "weight": "10.5",
+    "price": "2,000",
+    "defenses": {
+      "physical": {
+        "base": "12.8",
+        "strike": "11.2",
+        "slash": "12.0",
+        "thrust": "11.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "44",
+      "poison": "40",
+      "curse": "37"
+    }
+  },
+  "Fire Keeper Skirt": {
+    "name": "Fire Keeper Skirt",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "18",
+      "poison": "24",
+      "curse": "40"
+    }
+  },
+  "Burial Knight Leggings": {
+    "name": "Burial Knight Leggings",
+    "poise": "20.4",
+    "durability": "36",
+    "weight": "8.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "11.2",
+        "strike": "9.6",
+        "slash": "10.4",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "22",
+      "poison": "23",
+      "curse": "13"
+    }
+  },
+  "Hard Leather Boots": {
+    "name": "Hard Leather Boots",
+    "poise": "9.9",
+    "durability": "27",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "11.2",
+        "lightning": "8.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "35",
+      "poison": "38",
+      "curse": "29"
+    }
+  },
+  "Drakeblood Leggings": {
+    "name": "Drakeblood Leggings",
+    "poise": "23.4",
+    "durability": "41",
+    "weight": "11.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "13.6",
+        "strike": "14.0",
+        "slash": "12.8",
+        "thrust": "12.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "25",
+      "poison": "23",
+      "curse": "17"
+    }
+  },
+  "Maiden Skirt": {
+    "name": "Maiden Skirt",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "20",
+      "poison": "25",
+      "curse": "48"
+    }
+  },
+  "Black Tights": {
+    "name": "Black Tights",
+    "poise": "7.5",
+    "durability": "22",
+    "weight": "3.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "3.2",
+        "slash": "4.0",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "10.0",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "18",
+      "poison": "36",
+      "curse": "42"
+    }
+  },
+  "Hallowed Knight Leggings": {
+    "name": "Hallowed Knight Leggings",
+    "poise": "19.2",
+    "durability": "35",
+    "weight": "7.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "9.6",
+        "strike": "8.0",
+        "slash": "8.8",
+        "thrust": "8.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "20",
+      "poison": "10",
+      "curse": "9"
+    }
+  },
+  "Gundyr's Leggings": {
+    "name": "Gundyr's Leggings",
+    "poise": "27.9",
+    "durability": "46",
+    "weight": "15.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "48",
+      "frost": "36",
+      "poison": "36",
+      "curse": "36"
+    }
+  },
+  "Jailer Trousers": {
+    "name": "Jailer Trousers",
+    "poise": "9.6",
+    "durability": "23",
+    "weight": "4.8",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "13.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "19",
+      "poison": "22",
+      "curse": "73"
+    }
+  },
+  "Yhorm's Leggings": {
+    "name": "Yhorm's Leggings",
+    "poise": "22.8",
+    "durability": "35",
+    "weight": "10.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "13.2",
+        "strike": "11.6",
+        "slash": "12.4",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "11",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Mirror Knight Leggings": {
+    "name": "Mirror Knight Leggings",
+    "poise": "27.9",
+    "durability": "45",
+    "weight": "15.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "20.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "43",
+      "poison": "37",
+      "curse": "23"
+    }
+  },
+  "Iron Dragonslayer Leggings": {
+    "name": "Iron Dragonslayer Leggings",
+    "poise": "26.4",
+    "durability": "45",
+    "weight": "15.3",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "12.0",
+        "fire": "16.0",
+        "lightning": "20.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "48",
+      "frost": "35",
+      "poison": "32",
+      "curse": "36"
+    }
+  },
+  "Skirt of Prayer": {
+    "name": "Skirt of Prayer",
+    "poise": "1.5",
+    "durability": "22",
+    "weight": "2.4",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "13.2",
+        "lightning": "13.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "18",
+      "poison": "39",
+      "curse": "58"
+    }
+  },
+  "Gloom Leggings": {
+    "name": "Gloom Leggings",
+    "poise": "25.2",
+    "durability": "40",
+    "weight": "13.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.8",
+        "strike": "13.2",
+        "slash": "14.0",
+        "thrust": "13.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "25",
+      "poison": "28",
+      "curse": "20"
+    }
+  },
+  "Drang Shoes": {
+    "name": "Drang Shoes",
+    "poise": "6.0",
+    "durability": "25",
+    "weight": "4.8",
+    "price": "11",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "2.8",
+        "slash": "3.6",
+        "thrust": "3.2"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "10.0",
+        "lightning": "14.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "39",
+      "poison": "37",
+      "curse": "26"
+    }
+  },
+  "Black Witch Trousers": {
+    "name": "Black Witch Trousers",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "2.8",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "16.0",
+        "lightning": "16.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "19",
+      "poison": "25",
+      "curse": "65"
+    }
+  },
+  "Mad Warrior Leggings": {
+    "name": "Mad Warrior Leggings",
+    "poise": "23.4",
+    "durability": "41",
+    "weight": "11.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "13.6",
+        "strike": "12.0",
+        "slash": "12.8",
+        "thrust": "12.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "25",
+      "poison": "23",
+      "curse": "17"
+    }
+  },
+  "Lorian's Leggings": {
+    "name": "Lorian's Leggings",
+    "poise": "24.0",
+    "durability": "37",
+    "weight": "12.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.4",
+        "slash": "13.2",
+        "thrust": "12.8"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "27",
+      "poison": "21",
+      "curse": "25"
+    }
+  },
+  "Wolf Knight Leggings": {
+    "name": "Wolf Knight Leggings",
+    "poise": "21.0",
+    "durability": "35",
+    "weight": "9.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "11.6",
+        "strike": "10.0",
+        "slash": "10.8",
+        "thrust": "10.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "12.8"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "19",
+      "poison": "15",
+      "curse": "19"
+    }
+  },
+  "Pyromancer Trousers": {
+    "name": "Pyromancer Trousers",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "2.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "26",
+      "poison": "43",
+      "curse": "47"
+    }
+  },
+  "Silver Knight Leggings": {
+    "name": "Silver Knight Leggings",
+    "poise": "25.2",
+    "durability": "40",
+    "weight": "13.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.8",
+        "strike": "13.2",
+        "slash": "14.0",
+        "thrust": "13.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "25",
+      "poison": "28",
+      "curse": "20"
+    }
+  },
+  "Fallen Knight Trousers": {
+    "name": "Fallen Knight Trousers",
+    "poise": "19.2",
+    "durability": "25",
+    "weight": "7.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "9.6",
+        "strike": "8.0",
+        "slash": "8.8",
+        "thrust": "8.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "20",
+      "poison": "10",
+      "curse": "9"
+    }
+  },
+  "Sorcerer Trousers": {
+    "name": "Sorcerer Trousers",
+    "poise": "4.5",
+    "durability": "25",
+    "weight": "2.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "31",
+      "poison": "26",
+      "curse": "28"
+    }
+  },
+  "Cleric Trousers": {
+    "name": "Cleric Trousers",
+    "poise": "7.5",
+    "durability": "22",
+    "weight": "3.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "3.2",
+        "slash": "4.0",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "13.2",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "18",
+      "poison": "36",
+      "curse": "42"
+    }
+  },
+  "Follower Boots": {
+    "name": "Follower Boots",
+    "poise": "12.0",
+    "durability": "26",
+    "weight": "6.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.4",
+        "slash": "7.2",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "50",
+      "poison": "36",
+      "curse": "30"
+    }
+  },
+  "Syan Knight Leggings": {
+    "name": "Syan Knight Leggings",
+    "poise": "25.2",
+    "durability": "40",
+    "weight": "13.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.8",
+        "strike": "13.2",
+        "slash": "14.0",
+        "thrust": "13.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "25",
+      "poison": "28",
+      "curse": "20"
+    }
+  },
+  "Vileblood Leggings": {
+    "name": "Vileblood Leggings",
+    "poise": "9.0",
+    "durability": "28",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "32",
+      "poison": "38",
+      "curse": "46"
+    }
+  },
+  "Elite Knight Leggings": {
+    "name": "Elite Knight Leggings",
+    "poise": "20.4",
+    "durability": "37",
+    "weight": "8.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "11.2",
+        "strike": "9.6",
+        "slash": "10.4",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "26",
+      "poison": "25",
+      "curse": "16"
+    }
+  },
+  "Steel Leggings": {
+    "name": "Steel Leggings",
+    "poise": "27.6",
+    "durability": "47",
+    "weight": "15.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "12.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "35",
+      "poison": "35",
+      "curse": "21"
+    }
+  },
+  "Giant Leggings": {
+    "name": "Giant Leggings",
+    "poise": "28.8",
+    "durability": "50",
+    "weight": "16.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "17.2",
+        "strike": "15.6",
+        "slash": "16.4",
+        "thrust": "16.0"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "43",
+      "poison": "43",
+      "curse": "39"
+    }
+  },
+  "Desert Pyromancer Skirt": {
+    "name": "Desert Pyromancer Skirt",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "2.1",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "13.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "18",
+      "poison": "43",
+      "curse": "44"
+    }
+  },
+  "Fire Witch Leggings": {
+    "name": "Fire Witch Leggings",
+    "poise": "18.9",
+    "durability": "35",
+    "weight": "6.9",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "9.2",
+        "strike": "7.6",
+        "slash": "8.4",
+        "thrust": "8.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "20",
+      "poison": "16",
+      "curse": "13"
+    }
+  },
+  "Executioner Leggings": {
+    "name": "Executioner Leggings",
+    "poise": "26.7",
+    "durability": "46",
+    "weight": "14.7",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.4",
+        "slash": "15.2",
+        "thrust": "14.8"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "39",
+      "frost": "37",
+      "poison": "35",
+      "curse": "25"
+    }
+  },
+  "Boots of the Explorer": {
+    "name": "Boots of the Explorer",
+    "poise": "20.4",
+    "durability": "37",
+    "weight": "8.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "11.2",
+        "strike": "9.6",
+        "slash": "10.4",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "14.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "22",
+      "poison": "23",
+      "curse": "13"
+    }
+  },
+  "Dancer's Leggings": {
+    "name": "Dancer's Leggings",
+    "poise": "10.5",
+    "durability": "45",
+    "weight": "5.6",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "5.3",
+        "slash": "6.4",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "8.0",
+        "lightning": "10.0",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "48",
+      "frost": "35",
+      "poison": "32",
+      "curse": "16"
+    }
+  },
+  "Black Iron Leggings": {
+    "name": "Black Iron Leggings",
+    "poise": "27.6",
+    "durability": "45",
+    "weight": "15.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "16.0",
+        "lightning": "10.0",
+        "dark": "12.0"
+      }
+    },
+    "resistances": {
+      "bleed": "42",
+      "frost": "35",
+      "poison": "32",
+      "curse": "24"
+    }
+  },
+  "Winged Knight Leggings": {
+    "name": "Winged Knight Leggings",
+    "poise": "27.9",
+    "durability": "47",
+    "weight": "15.9",
+    "price": "350",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "42",
+      "frost": "39",
+      "poison": "32",
+      "curse": "24"
+    }
+  },
+  "Dark Leggings": {
+    "name": "Dark Leggings",
+    "poise": "19.5",
+    "durability": "35",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "10.0",
+        "strike": "8.4",
+        "slash": "9.2",
+        "thrust": "8.8"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "10.0",
+        "lightning": "6.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "23",
+      "poison": "20",
+      "curse": "100"
+    }
+  },
+  "Harald Legion Leggings": {
+    "name": "Harald Legion Leggings",
+    "poise": "26.1",
+    "durability": "47",
+    "weight": "14.1",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "15.6",
+        "strike": "14.0",
+        "slash": "14.8",
+        "thrust": "14.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "36",
+      "poison": "37",
+      "curse": "55"
+    }
+  },
+  "Chain Leggings": {
+    "name": "Chain Leggings",
+    "poise": "18.9",
+    "durability": "35",
+    "weight": "6.9",
+    "price": "80",
+    "defenses": {
+      "physical": {
+        "base": "9.2",
+        "strike": "7.6",
+        "slash": "8.4",
+        "thrust": "8.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "10.0",
+        "lightning": "8.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "17",
+      "poison": "17",
+      "curse": "10"
+    }
+  },
+  "Loincloth": {
+    "name": "Loincloth",
+    "poise": "1.5",
+    "durability": "12",
+    "weight": "1.5",
+    "price": "5",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "10",
+      "poison": "35",
+      "curse": "43"
+    }
+  },
+  "Cornyx's Skirt": {
+    "name": "Cornyx's Skirt",
+    "poise": "4.5",
+    "durability": "21",
+    "weight": "2.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "16.0",
+        "lightning": "13.2",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "18",
+      "poison": "24",
+      "curse": "48"
+    }
+  },
+  "Cathedral Knight Leggings": {
+    "name": "Cathedral Knight Leggings",
+    "poise": "27.6",
+    "durability": "45",
+    "weight": "15.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.0",
+        "lightning": "12.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "38",
+      "poison": "38",
+      "curse": "26"
+    }
+  },
+  "Rampart Golem Leggings": {
+    "name": "Rampart Golem Leggings",
+    "poise": "24.6",
+    "durability": "40",
+    "weight": "12.6",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "14.4",
+        "strike": "12.8",
+        "slash": "13.6",
+        "thrust": "13.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "60",
+      "poison": "35",
+      "curse": "18"
+    }
+  },
+  "Penetrator Leggings": {
+    "name": "Penetrator Leggings",
+    "poise": "27.3",
+    "durability": "45",
+    "weight": "15.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "32",
+      "poison": "36",
+      "curse": "22"
+    }
+  },
+  "Evangelist Trousers": {
+    "name": "Evangelist Trousers",
+    "poise": "10.5",
+    "durability": "200",
+    "weight": "5.4",
+    "price": "28",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "5.6",
+        "slash": "6.4",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "13.2",
+        "lightning": "14.0",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "35",
+      "poison": "39",
+      "curse": "37"
+    }
+  },
+  "Hexer's Boots": {
+    "name": "Hexer's Boots",
+    "poise": "4.5",
+    "durability": "21",
+    "weight": "2.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "10.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "24",
+      "poison": "23",
+      "curse": "56"
+    }
+  },
+  "Paladin Leggings": {
+    "name": "Paladin Leggings",
+    "poise": "27.0",
+    "durability": "43",
+    "weight": "15.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.4",
+        "slash": "15.2",
+        "thrust": "14.8"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "16.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "36",
+      "poison": "23",
+      "curse": "22"
+    }
+  },
+  "Ringed Knight Leggings": {
+    "name": "Ringed Knight Leggings",
+    "poise": "22.8",
+    "durability": "43",
+    "weight": "10.8",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "13.2",
+        "strike": "11.6",
+        "slash": "12.4",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "24",
+      "poison": "22",
+      "curse": "21"
+    }
+  },
+  "Alva Leggings": {
+    "name": "Alva Leggings",
+    "poise": "20.4",
+    "durability": "36",
+    "weight": "8.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "10.8",
+        "strike": "9.2",
+        "slash": "10.0",
+        "thrust": "9.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "22",
+      "poison": "21",
+      "curse": "12"
+    }
+  },
+  "Undead Legion Leggings": {
+    "name": "Undead Legion Leggings",
+    "poise": "19.5",
+    "durability": "28",
+    "weight": "7.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "10.0",
+        "strike": "8.4",
+        "slash": "9.2",
+        "thrust": "8.8"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "43",
+      "poison": "35",
+      "curse": "29"
+    }
+  },
+  "Northern Trousers": {
+    "name": "Northern Trousers",
+    "poise": "18.6",
+    "durability": "27",
+    "weight": "6.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.8",
+        "strike": "7.2",
+        "slash": "8.0",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "13.2",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "52",
+      "poison": "32",
+      "curse": "32"
+    }
+  },
+  "Knight Leggings": {
+    "name": "Knight Leggings",
+    "poise": "20.4",
+    "durability": "37",
+    "weight": "8.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "11.2",
+        "strike": "9.6",
+        "slash": "10.4",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "22",
+      "poison": "23",
+      "curse": "13"
+    }
+  },
+  "Smelter Demon Leggings": {
+    "name": "Smelter Demon Leggings",
+    "poise": "22.8",
+    "durability": "35",
+    "weight": "10.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "13.2",
+        "strike": "11.6",
+        "slash": "12.4",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "11",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Vilhelm's Leggings": {
+    "name": "Vilhelm's Leggings",
+    "poise": "18.6",
+    "durability": "37",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.8",
+        "strike": "7.2",
+        "slash": "8.0",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "8.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "23",
+      "poison": "22",
+      "curse": "49"
+    }
+  },
+  "Ancient King's Leggings": {
+    "name": "Ancient King's Leggings",
+    "poise": "21.0",
+    "durability": "35",
+    "weight": "9.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "11.6",
+        "strike": "10.0",
+        "slash": "10.8",
+        "thrust": "10.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "19",
+      "poison": "15",
+      "curse": "19"
+    }
+  },
+  "Smough's Leggings": {
+    "name": "Smough's Leggings",
+    "poise": "28.2",
+    "durability": "50",
+    "weight": "16.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "43",
+      "poison": "43",
+      "curse": "39"
+    }
+  },
+  "Shira's Trousers": {
+    "name": "Shira's Trousers",
+    "poise": "8.4",
+    "durability": "26",
+    "weight": "3.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.0",
+        "slash": "4.8",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "35",
+      "poison": "36",
+      "curse": "36"
+    }
+  },
+  "Black Leather Boots": {
+    "name": "Black Leather Boots",
+    "poise": "9.0",
+    "durability": "26",
+    "weight": "4.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "4.8",
+        "slash": "5.6",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "31",
+      "poison": "37",
+      "curse": "25"
+    }
+  },
+  "Anklet of the Great Lord": {
+    "name": "Anklet of the Great Lord",
+    "poise": "24.0",
+    "durability": "37",
+    "weight": "12.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.4",
+        "slash": "13.2",
+        "thrust": "12.8"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "11.2",
+        "lightning": "20.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "27",
+      "poison": "21",
+      "curse": "25"
+    }
+  },
+  "Grave Warden Skirt": {
+    "name": "Grave Warden Skirt",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.4",
+    "price": "70",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "13.2",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "11",
+      "poison": "40",
+      "curse": "35"
+    }
+  },
+  "Mirrah Trousers": {
+    "name": "Mirrah Trousers",
+    "poise": "9.9",
+    "durability": "26",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "11.2",
+        "lightning": "14.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "29",
+      "poison": "37",
+      "curse": "32"
+    }
+  },
+  "Morne's Leggings": {
+    "name": "Morne's Leggings",
+    "poise": "27.0",
+    "durability": "43",
+    "weight": "15.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.4",
+        "slash": "15.2",
+        "thrust": "14.8"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "36",
+      "poison": "23",
+      "curse": "22"
+    }
+  },
+  "Pontiff Knight Leggings": {
+    "name": "Pontiff Knight Leggings",
+    "poise": "12.0",
+    "durability": "28",
+    "weight": "5.7",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "7.6",
+        "strike": "6.0",
+        "slash": "6.8",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "8.0",
+        "lightning": "13.2",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "48",
+      "poison": "21",
+      "curse": "16"
+    }
+  },
+  "Quicksilver Leggings": {
+    "name": "Quicksilver Leggings",
+    "poise": "27.0",
+    "durability": "43",
+    "weight": "15.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.4",
+        "slash": "15.2",
+        "thrust": "14.8"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "36",
+      "poison": "23",
+      "curse": "22"
+    }
+  },
+  "Binded Boots": {
+    "name": "Binded Boots",
+    "poise": "7.5",
+    "durability": "23",
+    "weight": "3.3",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "3.2",
+        "slash": "4.0",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "28",
+      "poison": "44",
+      "curse": "39"
+    }
+  },
+  "Shadow Leggings": {
+    "name": "Shadow Leggings",
+    "poise": "4.5",
+    "durability": "23",
+    "weight": "2.4",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "10.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "23",
+      "poison": "24",
+      "curse": "21"
+    }
+  },
+  "Brushwood Leggings": {
+    "name": "Brushwood Leggings",
+    "poise": "27.9",
+    "durability": "46",
+    "weight": "15.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "48",
+      "frost": "36",
+      "poison": "36",
+      "curse": "36"
+    }
+  },
+  "Faraam Boots": {
+    "name": "Faraam Boots",
+    "poise": "20.1",
+    "durability": "37",
+    "weight": "8.1",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "10.8",
+        "strike": "9.2",
+        "slash": "10.1",
+        "thrust": "9.6"
+      },
+      "elemental": {
+        "magic": "12.8",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "12.8"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "37",
+      "poison": "24",
+      "curse": "15"
+    }
+  },
+  "Outrider Knight Leggings": {
+    "name": "Outrider Knight Leggings",
+    "poise": "19.8",
+    "durability": "37",
+    "weight": "7.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "10.4",
+        "strike": "8.8",
+        "slash": "9.6",
+        "thrust": "9.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "75",
+      "poison": "24",
+      "curse": "14"
+    }
+  },
+  "Imperious Leggings": {
+    "name": "Imperious Leggings",
+    "poise": "23.4",
+    "durability": "41",
+    "weight": "11.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "13.6",
+        "strike": "12.0",
+        "slash": "12.8",
+        "thrust": "12.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "25",
+      "poison": "23",
+      "curse": "17"
+    }
+  },
+  "Exile Leggings": {
+    "name": "Exile Leggings",
+    "poise": "25.5",
+    "durability": "47",
+    "weight": "13.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "15.2",
+        "strike": "13.6",
+        "slash": "14.4",
+        "thrust": "14.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "57",
+      "frost": "35",
+      "poison": "43",
+      "curse": "28"
+    }
+  },
+  "Assassin Trousers": {
+    "name": "Assassin Trousers",
+    "poise": "6.0",
+    "durability": "27",
+    "weight": "3.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "2.8",
+        "slash": "3.6",
+        "thrust": "3.2"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "32",
+      "poison": "43",
+      "curse": "38"
+    }
+  },
+  "Havel's Leggings": {
+    "name": "Havel's Leggings",
+    "poise": "29.4",
+    "durability": "56",
+    "weight": "17.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "17.6",
+        "strike": "16.0",
+        "slash": "16.8",
+        "thrust": "16.4"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "16.0",
+        "lightning": "8.0",
+        "dark": "12.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "43",
+      "poison": "43",
+      "curse": "38"
+    }
+  },
+  "Worker Trousers": {
+    "name": "Worker Trousers",
+    "poise": "7.5",
+    "durability": "23",
+    "weight": "3.3",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "3.2",
+        "slash": "4.0",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "8.0",
+        "lightning": "8.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "28",
+      "poison": "44",
+      "curse": "39"
+    }
+  },
+  "Leather Boots": {
+    "name": "Leather Boots",
+    "poise": "8.4",
+    "durability": "25",
+    "weight": "3.9",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.0",
+        "slash": "4.8",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "37",
+      "poison": "37",
+      "curse": "28"
+    }
+  },
+  "Painting Guardian Waistcloth": {
+    "name": "Painting Guardian Waistcloth",
+    "poise": "6.0",
+    "durability": "27",
+    "weight": "3.0",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "2.8",
+        "slash": "3.6",
+        "thrust": "3.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "10.0",
+        "lightning": "8.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "42",
+      "frost": "17",
+      "poison": "31",
+      "curse": "22"
+    }
+  },
+  "Grotto Trousers": {
+    "name": "Grotto Trousers",
+    "poise": "7.5",
+    "durability": "30",
+    "weight": "3.3",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "3.2",
+        "slash": "4.0",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "35",
+      "poison": "31",
+      "curse": "35"
+    }
+  },
+  "Lapp's Leggings": {
+    "name": "Lapp's Leggings",
+    "poise": "27.3",
+    "durability": "45",
+    "weight": "15.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "11"
+    }
+  },
+  "Ivory King Leggings": {
+    "name": "Ivory King Leggings",
+    "poise": "22.8",
+    "durability": "40",
+    "weight": "10.8",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "13.2",
+        "strike": "11.6",
+        "slash": "12.4",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "24",
+      "poison": "22",
+      "curse": "21"
+    }
+  },
+  "Venerable Sage's Boots": {
+    "name": "Venerable Sage's Boots",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "21",
+      "poison": "29",
+      "curse": "47"
+    }
+  },
+  "Black Leggings": {
+    "name": "Black Leggings",
+    "poise": "9.0",
+    "durability": "28",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "32",
+      "poison": "38",
+      "curse": "76"
+    }
+  },
+  "Lothric Knight Leggings": {
+    "name": "Lothric Knight Leggings",
+    "poise": "26.4",
+    "durability": "42",
+    "weight": "14.4",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "15.6",
+        "strike": "14.0",
+        "slash": "14.8",
+        "thrust": "14.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "8.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "44",
+      "frost": "32",
+      "poison": "24",
+      "curse": "20"
+    }
+  },
+  "Catarina Leggings": {
+    "name": "Catarina Leggings",
+    "poise": "27.6",
+    "durability": "47",
+    "weight": "15.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.4",
+        "strike": "14.8",
+        "slash": "15.6",
+        "thrust": "15.2"
+      },
+      "elemental": {
+        "magic": "12.0",
+        "fire": "12.0",
+        "lightning": "14.0",
+        "dark": "12.0"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "35",
+      "poison": "35",
+      "curse": "21"
+    }
+  },
+  "Bone Ash Leggings": {
+    "name": "Bone Ash Leggings",
+    "poise": "18.6",
+    "durability": "37",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.8",
+        "strike": "7.2",
+        "slash": "8.0",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "23",
+      "poison": "22",
+      "curse": "27"
+    }
+  },
+  "Antiquated Skirt": {
+    "name": "Antiquated Skirt",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "16",
+      "poison": "23",
+      "curse": "54"
+    }
+  },
+  "Dragonscale Waistcloth": {
+    "name": "Dragonscale Waistcloth",
+    "poise": "12.0",
+    "durability": "36",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.4",
+        "slash": "7.2",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "16.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "22",
+      "poison": "21",
+      "curse": "10"
+    }
+  },
+  "Ruin Leggings": {
+    "name": "Ruin Leggings",
+    "poise": "24.6",
+    "durability": "40",
+    "weight": "12.6",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "14.4",
+        "strike": "12.8",
+        "slash": "13.6",
+        "thrust": "13.2"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "20",
+      "poison": "35",
+      "curse": "18"
+    }
+  },
+  "Leonhard's Trousers": {
+    "name": "Leonhard's Trousers",
+    "poise": "9.0",
+    "durability": "26",
+    "weight": "4.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "4.8",
+        "slash": "5.6",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "34",
+      "poison": "28",
+      "curse": "28"
+    }
+  },
+  "Sellsword Trousers": {
+    "name": "Sellsword Trousers",
+    "poise": "9.0",
+    "durability": "26",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "5.2",
+        "slash": "6.0",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "8.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "19",
+      "poison": "17",
+      "curse": "9"
+    }
+  },
+  "Herald Trousers": {
+    "name": "Herald Trousers",
+    "poise": "19.2",
+    "durability": "35",
+    "weight": "7.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "9.6",
+        "strike": "8.0",
+        "slash": "8.8",
+        "thrust": "8.4"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "8.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "20",
+      "poison": "20",
+      "curse": "11"
+    }
+  },
+  "Mirrah Chain Leggings": {
+    "name": "Mirrah Chain Leggings",
+    "poise": "19.2",
+    "durability": "36",
+    "weight": "7.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "9.6",
+        "strike": "8.0",
+        "slash": "8.8",
+        "thrust": "8.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "25",
+      "poison": "23",
+      "curse": "18"
+    }
+  },
+  "Karla's Trousers": {
+    "name": "Karla's Trousers",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "2.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "16.0",
+        "lightning": "16.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "21",
+      "poison": "23",
+      "curse": "36"
+    }
+  },
+  "Court Sorcerer Trousers": {
+    "name": "Court Sorcerer Trousers",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "16.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "21",
+      "poison": "29",
+      "curse": "47"
+    }
+  },
+  "Heide Knight Leggings": {
+    "name": "Heide Knight Leggings",
+    "poise": "25.2",
+    "durability": "40",
+    "weight": "13.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.8",
+        "strike": "13.2",
+        "slash": "14.0",
+        "thrust": "13.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "11.2",
+        "lightning": "16.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "26",
+      "poison": "27",
+      "curse": "26"
+    }
+  },
+  "Lord's Blade Waistcloth": {
+    "name": "Lord's Blade Waistcloth",
+    "poise": "21.6",
+    "durability": "38",
+    "weight": "9.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.4",
+        "slash": "11.2",
+        "thrust": "10.8"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "11.2"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "32",
+      "poison": "29",
+      "curse": "24"
+    }
+  },
+  "Conjurator Boots": {
+    "name": "Conjurator Boots",
+    "poise": "7.5",
+    "durability": "23",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.2",
+        "strike": "3.6",
+        "slash": "4.4",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "13.2",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "27",
+      "poison": "33",
+      "curse": "38"
+    }
+  },
+  "Nameless Knight Leggings": {
+    "name": "Nameless Knight Leggings",
+    "poise": "20.4",
+    "durability": "36",
+    "weight": "8.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "11.2",
+        "strike": "9.6",
+        "slash": "10.4",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "14.0",
+        "lightning": "11.2",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "20",
+      "poison": "22",
+      "curse": "11"
+    }
+  },
+  "Footman's Trousers": {
+    "name": "Footman's Trousers",
+    "poise": "19.8",
+    "durability": "30",
+    "weight": "7.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "10.4",
+        "strike": "8.8",
+        "slash": "9.6",
+        "thrust": "8.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "8.0",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": { "bleed": "8", "frost": "19", "poison": "9", "curse": "14" }
+  },
+  "Dragonslayer Leggings": {
+    "name": "Dragonslayer Leggings",
+    "poise": "17.0",
+    "durability": "41",
+    "weight": "14.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "15.6",
+        "strike": "14.0",
+        "slash": "14.8",
+        "thrust": "14.4"
+      },
+      "elemental": {
+        "magic": "12.0",
+        "fire": "20.0",
+        "lightning": "20.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "24",
+      "poison": "23",
+      "curse": "21"
+    }
+  },
+  "Sunless Leggings": {
+    "name": "Sunless Leggings",
+    "poise": "9.0",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "4.8",
+        "slash": "5.6",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "11.2",
+        "lightning": "10.0",
+        "dark": "13.2"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "21",
+      "poison": "18",
+      "curse": "18"
+    }
+  },
+  "Millwood Knight Leggings": {
+    "name": "Millwood Knight Leggings",
+    "poise": "27.9",
+    "durability": "45",
+    "weight": "15.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "16.8",
+        "strike": "15.2",
+        "slash": "16.0",
+        "thrust": "15.6"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "43",
+      "poison": "38",
+      "curse": "23"
+    }
+  },
+  "Xanthous Trousers": {
+    "name": "Xanthous Trousers",
+    "poise": "9.0",
+    "durability": "26",
+    "weight": "4.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "4.8",
+        "slash": "5.6",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "8.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "35",
+      "poison": "35",
+      "curse": "28"
+    }
+  },
+  "Alonne's Leggings": {
+    "name": "Alonne's Leggings",
+    "poise": "22.5",
+    "durability": "28",
+    "weight": "10.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.8",
+        "strike": "11.2",
+        "slash": "12.0",
+        "thrust": "11.6"
+      },
+      "elemental": {
+        "magic": "11.2",
+        "fire": "12.8",
+        "lightning": "11.2",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "41",
+      "poison": "40",
+      "curse": "39"
+    }
+  },
+  "Courtier's Trousers": {
+    "name": "Courtier's Trousers",
+    "poise": "12.0",
+    "durability": "36",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.4",
+        "slash": "7.2",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "22",
+      "poison": "21",
+      "curse": "10"
+    }
+  },
+  "Eastern Leggings": {
+    "name": "Eastern Leggings",
+    "poise": "22.5",
+    "durability": "28",
+    "weight": "10.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.8",
+        "strike": "11.2",
+        "slash": "12.0",
+        "thrust": "11.6"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "12.8",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "41",
+      "poison": "40",
+      "curse": "39"
+    }
+  },
+  "Pursuer's Leggings": {
+    "name": "Pursuer's Leggings",
+    "poise": "28.5",
+    "durability": "50",
+    "weight": "16.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "17.2",
+        "strike": "15.6",
+        "slash": "16.4",
+        "thrust": "16.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.0",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "43",
+      "poison": "43",
+      "curse": "78"
+    }
+  },
+  "Brigand Trousers": {
+    "name": "Brigand Trousers",
+    "poise": "8.4",
+    "durability": "28",
+    "weight": "4.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.4",
+        "slash": "5.2",
+        "thrust": "4.8"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "11.2",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "41",
+      "poison": "43",
+      "curse": "32"
+    }
+  },
+  "Slave Knight Leggings": {
+    "name": "Slave Knight Leggings",
+    "poise": "18.3",
+    "durability": "35",
+    "weight": "6.3",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "6.8",
+        "slash": "7.6",
+        "thrust": "7.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "11.2",
+        "lightning": "8.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "22",
+      "poison": "21",
+      "curse": "12"
+    }
+  },
+  "Moonlight Waistcloth": {
+    "name": "Moonlight Waistcloth",
+    "poise": "4.5",
+    "durability": "22",
+    "weight": "2.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.0",
+        "slash": "2.8",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "20",
+      "poison": "23",
+      "curse": "42"
+    }
+  }
+}

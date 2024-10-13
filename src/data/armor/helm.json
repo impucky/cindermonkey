@@ -1,0 +1,4810 @@
+{
+  "Scholar's Shed Skin": {
+    "name": "Scholar's Shed Skin",
+    "poise": "3.0",
+    "durability": "23",
+    "weight": "1.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.2",
+        "strike": "1.4",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "7.0",
+        "lightning": "4.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "18",
+      "poison": "17",
+      "curse": "250"
+    }
+  },
+  "Saint's Veil": {
+    "name": "Saint's Veil",
+    "poise": "0.7",
+    "durability": "15",
+    "weight": "0.9",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "6.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "21",
+      "poison": "17",
+      "curse": "21"
+    }
+  },
+  "Black Hand Hat": {
+    "name": "Black Hand Hat",
+    "poise": "3.8",
+    "durability": "26",
+    "weight": "1.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.6",
+        "strike": "1.8",
+        "slash": "2.2",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "21",
+      "poison": "30",
+      "curse": "25"
+    }
+  },
+  "Hood of Prayer": {
+    "name": "Hood of Prayer",
+    "poise": "1.5",
+    "durability": "21",
+    "weight": "1.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "6.6",
+        "lightning": "6.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "13",
+      "poison": "28",
+      "curse": "40"
+    }
+  },
+  "Steel Soldier Helm": {
+    "name": "Steel Soldier Helm",
+    "poise": "4.5",
+    "durability": "37",
+    "weight": "2.2",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "18",
+      "poison": "18",
+      "curse": "13"
+    }
+  },
+  "Archdeacon White Crown": {
+    "name": "Archdeacon White Crown",
+    "poise": "1.5",
+    "durability": "23",
+    "weight": "1.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "19",
+      "poison": "19",
+      "curse": "58"
+    }
+  },
+  "Ordained Hood": {
+    "name": "Ordained Hood",
+    "poise": "2.2",
+    "durability": "23",
+    "weight": "1.4",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "21",
+      "poison": "19",
+      "curse": "32"
+    }
+  },
+  "Serpentine Mask": {
+    "name": "Serpentine Mask",
+    "poise": "3.0",
+    "durability": "39",
+    "weight": "1.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "2.2",
+        "strike": "1.4",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "7.0",
+        "lightning": "8.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "35",
+      "frost": "15",
+      "poison": "10",
+      "curse": "15"
+    }
+  },
+  "Pontiff's Crown": {
+    "name": "Pontiff's Crown",
+    "poise": "5.3",
+    "durability": "27",
+    "weight": "2.8",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "3.8",
+        "strike": "3.0",
+        "slash": "3.4",
+        "thrust": "3.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "4.0",
+        "lightning": "6.6",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "31",
+      "poison": "12",
+      "curse": "10"
+    }
+  },
+  "Heide Mask": {
+    "name": "Heide Mask",
+    "poise": "13.2",
+    "durability": "41",
+    "weight": "7.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "10.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "22",
+      "poison": "18",
+      "curse": "14"
+    }
+  },
+  "Iron Keeper Helm": {
+    "name": "Iron Keeper Helm",
+    "poise": "13.2",
+    "durability": "36",
+    "weight": "7.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "19",
+      "poison": "18",
+      "curse": "12"
+    }
+  },
+  "Crab Helmet": {
+    "name": "Crab Helmet",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "3.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "13",
+      "poison": "24",
+      "curse": "12"
+    }
+  },
+  "Gargoyle Helm": {
+    "name": "Gargoyle Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "10.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Gargoyle Skull": {
+    "name": "Gargoyle Skull",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "10.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "13",
+      "poison": "24",
+      "curse": "12"
+    }
+  },
+  "Horned Samurai Helm": {
+    "name": "Horned Samurai Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Imperial Samurai Helm": {
+    "name": "Imperial Samurai Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Ornate Samurai Helm": {
+    "name": "Ornate Samurai Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Giant Slave Helmet": {
+    "name": "Giant Slave Helmet",
+    "poise": "12.0",
+    "durability": "38",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "12",
+      "curse": "15"
+    }
+  },
+  "Ludleth's Crown": {
+    "name": "Ludleth's Crown",
+    "poise": "12.0",
+    "durability": "20",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.6",
+        "lightning": "10.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "27"
+    }
+  },
+  "Old Demon King's Crown": {
+    "name": "Old Demon King's Crown",
+    "poise": "12.0",
+    "durability": "20",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "10.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "27"
+    }
+  },
+  "Pot": {
+    "name": "Pot",
+    "poise": "12.0",
+    "durability": "20",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "27"
+    }
+  },
+  "Pygmy Crown": {
+    "name": "Pygmy Crown",
+    "poise": "12.0",
+    "durability": "20",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "40"
+    }
+  },
+  "Symbol of Avarice": {
+    "name": "Symbol of Avarice",
+    "poise": "12.0",
+    "durability": "50",
+    "weight": "6.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "27",
+      "poison": "27",
+      "curse": "22"
+    }
+  },
+  "Mask of Sin": {
+    "name": "Mask of Sin",
+    "poise": "11.7",
+    "durability": "41",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "6.0",
+        "slash": "6.4",
+        "thrust": "6.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "21",
+      "poison": "19",
+      "curse": "50"
+    }
+  },
+  "Corvian Knight Helmet": {
+    "name": "Corvian Knight Helmet",
+    "poise": "11.3",
+    "durability": "35",
+    "weight": "5.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "14",
+      "curse": "10"
+    }
+  },
+  "Gold Ardeo": {
+    "name": "Gold Ardeo",
+    "poise": "11.3",
+    "durability": "38",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Iron Cage": {
+    "name": "Iron Cage",
+    "poise": "11.3",
+    "durability": "35",
+    "weight": "5.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "14",
+      "curse": "10"
+    }
+  },
+  "Bloodstained Gauntlets": {
+    "name": "Bloodstained Gauntlets",
+    "poise": "10.5",
+    "durability": "27",
+    "weight": "4.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "21",
+      "poison": "22",
+      "curse": "17"
+    }
+  },
+  "Crown of Filianore": {
+    "name": "Crown of Filianore",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "10.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "17",
+      "poison": "16",
+      "curse": "16"
+    }
+  },
+  "Crown of the Holy King": {
+    "name": "Crown of the Holy King",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "10.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "17",
+      "poison": "16",
+      "curse": "16"
+    }
+  },
+  "Demon Cleric Mask": {
+    "name": "Demon Cleric Mask",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "7"
+    }
+  },
+  "Mask of Cruelty": {
+    "name": "Mask of Cruelty",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "50",
+      "frost": "15",
+      "poison": "14",
+      "curse": "14"
+    }
+  },
+  "Mask of Horror": {
+    "name": "Mask of Horror",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "50"
+    }
+  },
+  "Mask of Serenity": {
+    "name": "Mask of Serenity",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "50",
+      "poison": "14",
+      "curse": "7"
+    }
+  },
+  "Mask of the Child": {
+    "name": "Mask of the Child",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "7"
+    }
+  },
+  "Mask of the Father": {
+    "name": "Mask of the Father",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "7"
+    }
+  },
+  "Mask of the Mother": {
+    "name": "Mask of the Mother",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "7"
+    }
+  },
+  "Mask of War": {
+    "name": "Mask of War",
+    "poise": "10.2",
+    "durability": "20",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "30",
+      "poison": "30",
+      "curse": "30"
+    }
+  },
+  "Thrall Hood": {
+    "name": "Thrall Hood",
+    "poise": "3.8",
+    "durability": "22",
+    "weight": "1.6",
+    "price": "10",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "4.0",
+        "lightning": "4.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "19",
+      "poison": "28",
+      "curse": "38"
+    }
+  },
+  "Skull Mask": {
+    "name": "Skull Mask",
+    "poise": "9.8",
+    "durability": "20",
+    "weight": "3.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.0",
+        "strike": "4.2",
+        "slash": "4.6",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.0",
+        "lightning": "3.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "70"
+    }
+  },
+  "Clandestine Coat": {
+    "name": "Clandestine Coat",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "30",
+      "poison": "36",
+      "curse": "65"
+    }
+  },
+  "Wanderer's Coat": {
+    "name": "Wanderer's Coat",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "30",
+      "poison": "36",
+      "curse": "65"
+    }
+  },
+  "Crown of Illusions": {
+    "name": "Crown of Illusions",
+    "poise": "9.3",
+    "durability": "27",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "4.0",
+        "lightning": "4.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "27",
+      "poison": "29",
+      "curse": "37"
+    }
+  },
+  "Wolnir's Crown": {
+    "name": "Wolnir's Crown",
+    "poise": "9.3",
+    "durability": "27",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "4.0",
+        "lightning": "4.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "27",
+      "poison": "29",
+      "curse": "37"
+    }
+  },
+  "Frigid Valley Mask": {
+    "name": "Frigid Valley Mask",
+    "poise": "5.3",
+    "durability": "36",
+    "weight": "2.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.8",
+        "slash": "3.2",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "4.0",
+        "lightning": "5.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "52",
+      "poison": "12",
+      "curse": "5"
+    }
+  },
+  "Basilisk Cap": {
+    "name": "Basilisk Cap",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "28",
+      "curse": "250"
+    }
+  },
+  "Deserter Helm": {
+    "name": "Deserter Helm",
+    "poise": "4.5",
+    "durability": "37",
+    "weight": "2.2",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "4.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "18",
+      "poison": "18",
+      "curse": "13"
+    }
+  },
+  "Hollow Head": {
+    "name": "Hollow Head",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "28",
+      "curse": "250"
+    }
+  },
+  "Poisonhorn Cap": {
+    "name": "Poisonhorn Cap",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "250",
+      "curse": "10"
+    }
+  },
+  "Raven Mask": {
+    "name": "Raven Mask",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "250",
+      "curse": "20"
+    }
+  },
+  "Soldier's Hood": {
+    "name": "Soldier's Hood",
+    "poise": "4.5",
+    "durability": "35",
+    "weight": "2.2",
+    "price": "80",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "15",
+      "poison": "15",
+      "curse": "11"
+    }
+  },
+  "Vagabond Cowl": {
+    "name": "Vagabond Cowl",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "4.0",
+        "lightning": "7.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "28",
+      "curse": "30"
+    }
+  },
+  "White Preacher Head": {
+    "name": "White Preacher Head",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "4.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "28",
+      "curse": "250"
+    }
+  },
+  "Black Metal Hat": {
+    "name": "Black Metal Hat",
+    "poise": "3.8",
+    "durability": "24",
+    "weight": "1.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "33",
+      "poison": "10",
+      "curse": "20"
+    }
+  },
+  "Tan Straw Hat": {
+    "name": "Tan Straw Hat",
+    "poise": "3.8",
+    "durability": "24",
+    "weight": "1.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.6",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "33",
+      "poison": "10",
+      "curse": "10"
+    }
+  },
+  "Black Witch Veil": {
+    "name": "Black Witch Veil",
+    "poise": "3.0",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "8.0",
+        "dark": "10"
+      }
+    },
+    "resistances": { "bleed": "4", "frost": "8", "poison": "14", "curse": "64" }
+  },
+  "Sage's Big Hat": {
+    "name": "Sage's Big Hat",
+    "poise": "2.2",
+    "durability": "23",
+    "weight": "1.4",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "13",
+      "poison": "21",
+      "curse": "26"
+    }
+  },
+  "Blindfold Mask": {
+    "name": "Blindfold Mask",
+    "poise": "1.5",
+    "durability": "20",
+    "weight": "0.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "6",
+      "frost": "10",
+      "poison": "15",
+      "curse": "52"
+    }
+  },
+  "Carthus Blindfold": {
+    "name": "Carthus Blindfold",
+    "poise": "1.5",
+    "durability": "20",
+    "weight": "0.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "52",
+      "frost": "10",
+      "poison": "15",
+      "curse": "6"
+    }
+  },
+  "Burial Knight Helm": {
+    "name": "Burial Knight Helm",
+    "poise": "10.2",
+    "durability": "36",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "18",
+      "poison": "17",
+      "curse": "12"
+    }
+  },
+  "Steel Helm": {
+    "name": "Steel Helm",
+    "poise": "13.8",
+    "durability": "46",
+    "weight": "7.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "6.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "27",
+      "poison": "27",
+      "curse": "17"
+    }
+  },
+  "Black Knight Helm": {
+    "name": "Black Knight Helm",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.4",
+        "strike": "6.6",
+        "slash": "7.0",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "19",
+      "poison": "19",
+      "curse": "19"
+    }
+  },
+  "Black Iron Helm": {
+    "name": "Black Iron Helm",
+    "poise": "13.8",
+    "durability": "45",
+    "weight": "7.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "8.0",
+        "lightning": "5.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "21",
+      "poison": "19",
+      "curse": "13"
+    }
+  },
+  "Mad Warrior Mask": {
+    "name": "Mad Warrior Mask",
+    "poise": "11.7",
+    "durability": "41",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "6.0",
+        "slash": "6.4",
+        "thrust": "6.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "21",
+      "poison": "19",
+      "curse": "15"
+    }
+  },
+  "Iron Helm": {
+    "name": "Iron Helm",
+    "poise": "9.6",
+    "durability": "38",
+    "weight": "3.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "17",
+      "poison": "17",
+      "curse": "15"
+    }
+  },
+  "Mask of Velka": {
+    "name": "Mask of Velka",
+    "poise": "3.8",
+    "durability": "35",
+    "weight": "1.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.0",
+        "lightning": "7.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "12",
+      "poison": "25",
+      "curse": "29"
+    }
+  },
+  "Brass Helm": {
+    "name": "Brass Helm",
+    "poise": "11.1",
+    "durability": "37",
+    "weight": "5.1",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.4",
+        "slash": "5.8",
+        "thrust": "5.6"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "17",
+      "poison": "15",
+      "curse": "13"
+    }
+  },
+  "Helm of Favor": {
+    "name": "Helm of Favor",
+    "poise": "10.8",
+    "durability": "40",
+    "weight": "4.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.2",
+        "slash": "5.6",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "25",
+      "poison": "23",
+      "curse": "18"
+    }
+  },
+  "Aristocrat's Mask": {
+    "name": "Aristocrat's Mask",
+    "poise": "4.8",
+    "durability": "40",
+    "weight": "2.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.6",
+        "slash": "3.0",
+        "thrust": "2.8"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "6.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "17",
+      "poison": "17",
+      "curse": "48"
+    }
+  },
+  "Sneering Mask": {
+    "name": "Sneering Mask",
+    "poise": "2.2",
+    "durability": "25",
+    "weight": "1.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "6.6",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "35",
+      "frost": "22",
+      "poison": "28",
+      "curse": "20"
+    }
+  },
+  "Old Sorcerer Hat": {
+    "name": "Old Sorcerer Hat",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "12",
+      "poison": "15",
+      "curse": "28"
+    }
+  },
+  "Black Dragon Helm": {
+    "name": "Black Dragon Helm",
+    "poise": "11.4",
+    "durability": "41",
+    "weight": "5.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "21",
+      "poison": "19",
+      "curse": "15"
+    }
+  },
+  "Black Witch Hat": {
+    "name": "Black Witch Hat",
+    "poise": "3.0",
+    "durability": "23",
+    "weight": "1.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "8.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "6",
+      "frost": "12",
+      "poison": "17",
+      "curse": "50"
+    }
+  },
+  "Drakekeeper Helm": {
+    "name": "Drakekeeper Helm",
+    "poise": "13.8",
+    "durability": "47",
+    "weight": "7.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "8.0",
+        "lightning": "8.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "26",
+      "poison": "26",
+      "curse": "20"
+    }
+  },
+  "Gundyr's Helm": {
+    "name": "Gundyr's Helm",
+    "poise": "14.0",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "35",
+      "frost": "25",
+      "poison": "25",
+      "curse": "25"
+    }
+  },
+  "Dragonrider Helm": {
+    "name": "Dragonrider Helm",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "30",
+      "poison": "26",
+      "curse": "16"
+    }
+  },
+  "Maiden Hood": {
+    "name": "Maiden Hood",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "12",
+      "poison": "16",
+      "curse": "31"
+    }
+  },
+  "Sunset Helm": {
+    "name": "Sunset Helm",
+    "poise": "10.5",
+    "durability": "38",
+    "weight": "4.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "14",
+      "poison": "25",
+      "curse": "15"
+    }
+  },
+  "Fire Keeper Mask": {
+    "name": "Fire Keeper Mask",
+    "poise": "1.5",
+    "durability": "20",
+    "weight": "0.9",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "11",
+      "poison": "12",
+      "curse": "25"
+    }
+  },
+  "Drakeblood Helm": {
+    "name": "Drakeblood Helm",
+    "poise": "11.7",
+    "durability": "15",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "6.0",
+        "slash": "6.4",
+        "thrust": "6.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "21",
+      "poison": "19",
+      "curse": "15"
+    }
+  },
+  "Varangian Helm": {
+    "name": "Varangian Helm",
+    "poise": "9.3",
+    "durability": "30",
+    "weight": "3.3",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "4.0",
+        "lightning": "6.6",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "19",
+      "poison": "15",
+      "curse": "18"
+    }
+  },
+  "Hallowed Knight Helm": {
+    "name": "Hallowed Knight Helm",
+    "poise": "9.6",
+    "durability": "37",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "19",
+      "poison": "14",
+      "curse": "12"
+    }
+  },
+  "Syan Knight Helm": {
+    "name": "Syan Knight Helm",
+    "poise": "12.6",
+    "durability": "41",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.4",
+        "strike": "6.6",
+        "slash": "7.0",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "13"
+    }
+  },
+  "Mirror Knight Helm": {
+    "name": "Mirror Knight Helm",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "10.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "30",
+      "poison": "26",
+      "curse": "16"
+    }
+  },
+  "Yhorm's Crown": {
+    "name": "Yhorm's Crown",
+    "poise": "11.4",
+    "durability": "35",
+    "weight": "5.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": { "bleed": "17", "frost": "9", "poison": "10", "curse": "9" }
+  },
+  "Firelink Helm": {
+    "name": "Firelink Helm",
+    "poise": "11.3",
+    "durability": "35",
+    "weight": "5.2",
+    "price": "2,000",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "16",
+      "poison": "12",
+      "curse": "8"
+    }
+  },
+  "Standard Helm": {
+    "name": "Standard Helm",
+    "poise": "4.9",
+    "durability": "28",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.6",
+        "slash": "3.0",
+        "thrust": "2.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "4.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "27",
+      "poison": "29",
+      "curse": "24"
+    }
+  },
+  "Lorian's Helm": {
+    "name": "Lorian's Helm",
+    "poise": "12.0",
+    "durability": "38",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "12",
+      "curse": "15"
+    }
+  },
+  "Wolf Knight Helm": {
+    "name": "Wolf Knight Helm",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "5.2",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "6.4"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "17",
+      "poison": "16",
+      "curse": "17"
+    }
+  },
+  "Cleric Hat": {
+    "name": "Cleric Hat",
+    "poise": "3.8",
+    "durability": "22",
+    "weight": "1.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "6.6",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "12",
+      "poison": "25",
+      "curse": "29"
+    }
+  },
+  "Iron Dragonslayer Helm": {
+    "name": "Iron Dragonslayer Helm",
+    "poise": "13.2",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "8.0",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "33",
+      "frost": "24",
+      "poison": "22",
+      "curse": "31"
+    }
+  },
+  "Gloom Helm": {
+    "name": "Gloom Helm",
+    "poise": "12.6",
+    "durability": "41",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.4",
+        "strike": "6.6",
+        "slash": "7.0",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "13"
+    }
+  },
+  "Silver Knight Helm": {
+    "name": "Silver Knight Helm",
+    "poise": "12.6",
+    "durability": "41",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.4",
+        "strike": "6.6",
+        "slash": "7.0",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "13"
+    }
+  },
+  "Pyromancer Crown": {
+    "name": "Pyromancer Crown",
+    "poise": "3.0",
+    "durability": "20",
+    "weight": "1.4",
+    "price": "3",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "15",
+      "poison": "12",
+      "curse": "21"
+    }
+  },
+  "Sorcerer Hood": {
+    "name": "Sorcerer Hood",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "14",
+      "poison": "18",
+      "curse": "30"
+    }
+  },
+  "Fallen Knight Helm": {
+    "name": "Fallen Knight Helm",
+    "poise": "9.6",
+    "durability": "37",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "19",
+      "poison": "14",
+      "curse": "12"
+    }
+  },
+  "Desert Pyromancer Hood": {
+    "name": "Desert Pyromancer Hood",
+    "poise": "1.5",
+    "durability": "21",
+    "weight": "1.0",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "6.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "13",
+      "poison": "30",
+      "curse": "31"
+    }
+  },
+  "Follower Helm": {
+    "name": "Follower Helm",
+    "poise": "6.0",
+    "durability": "36",
+    "weight": "3.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.0",
+        "strike": "3.2",
+        "slash": "3.6",
+        "thrust": "3.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "31",
+      "poison": "14",
+      "curse": "10"
+    }
+  },
+  "Vileblood Helm": {
+    "name": "Vileblood Helm",
+    "poise": "4.5",
+    "durability": "36",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.6",
+        "slash": "3.0",
+        "thrust": "2.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "14",
+      "poison": "16",
+      "curse": "18"
+    }
+  },
+  "Fire Witch Helm": {
+    "name": "Fire Witch Helm",
+    "poise": "9.5",
+    "durability": "35",
+    "weight": "3.5",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.6",
+        "strike": "3.8",
+        "slash": "4.2",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "13",
+      "curse": "11"
+    }
+  },
+  "Elite Knight Helm": {
+    "name": "Elite Knight Helm",
+    "poise": "10.2",
+    "durability": "38",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "15",
+      "poison": "15",
+      "curse": "9"
+    }
+  },
+  "Giant Helm": {
+    "name": "Giant Helm",
+    "poise": "14.4",
+    "durability": "50",
+    "weight": "8.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.6",
+        "strike": "7.8",
+        "slash": "8.2",
+        "thrust": "8.0"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "27",
+      "poison": "27",
+      "curse": "24"
+    }
+  },
+  "Executioner Helm": {
+    "name": "Executioner Helm",
+    "poise": "13.3",
+    "durability": "46",
+    "weight": "7.3",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "29",
+      "poison": "28",
+      "curse": "21"
+    }
+  },
+  "Helm of the Wise": {
+    "name": "Helm of the Wise",
+    "poise": "10.2",
+    "durability": "38",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "7.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "18",
+      "poison": "17",
+      "curse": "12"
+    }
+  },
+  "Dancer's Crown": {
+    "name": "Dancer's Crown",
+    "poise": "5.3",
+    "durability": "27",
+    "weight": "2.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.8",
+        "slash": "3.2",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "4.0",
+        "lightning": "5.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "23",
+      "poison": "10",
+      "curse": "7"
+    }
+  },
+  "Winged Knight Helm": {
+    "name": "Winged Knight Helm",
+    "poise": "14.0",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "350",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "29",
+      "poison": "29",
+      "curse": "18"
+    }
+  },
+  "Chain Helm": {
+    "name": "Chain Helm",
+    "poise": "9.5",
+    "durability": "35",
+    "weight": "3.5",
+    "price": "80",
+    "defenses": {
+      "physical": {
+        "base": "4.6",
+        "strike": "3.8",
+        "slash": "4.2",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "15",
+      "poison": "15",
+      "curse": "11"
+    }
+  },
+  "Mass of Humanity": {
+    "name": "Mass of Humanity",
+    "poise": "13.1",
+    "durability": "26",
+    "weight": "7.1",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "7.8",
+        "strike": "7.0",
+        "slash": "7.4",
+        "thrust": "7.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "15",
+      "poison": "19",
+      "curse": "250"
+    }
+  },
+  "Dark Mask": {
+    "name": "Dark Mask",
+    "poise": "9.8",
+    "durability": "35",
+    "weight": "3.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.0",
+        "strike": "4.2",
+        "slash": "4.6",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.0",
+        "lightning": "3.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "15",
+      "poison": "14",
+      "curse": "70"
+    }
+  },
+  "Knight Helm": {
+    "name": "Knight Helm",
+    "poise": "10.2",
+    "durability": "38",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "18",
+      "poison": "17",
+      "curse": "12"
+    }
+  },
+  "Ragged Mask": {
+    "name": "Ragged Mask",
+    "poise": "0.7",
+    "durability": "10",
+    "weight": "0.7",
+    "price": "10",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "3.0",
+        "fire": "3.0",
+        "lightning": "3.0",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "7",
+      "poison": "25",
+      "curse": "29"
+    }
+  },
+  "Evangelist Hat": {
+    "name": "Evangelist Hat",
+    "poise": "5.3",
+    "durability": "28",
+    "weight": "2.7",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "2.8",
+        "slash": "3.2",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "6.6",
+        "lightning": "7.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "24",
+      "poison": "27",
+      "curse": "25"
+    }
+  },
+  "Hexer's Hood": {
+    "name": "Hexer's Hood",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "5.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "15",
+      "poison": "15",
+      "curse": "43"
+    }
+  },
+  "Paladin Helm": {
+    "name": "Paladin Helm",
+    "poise": "13.5",
+    "durability": "47",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "8.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "27",
+      "poison": "17",
+      "curse": "17"
+    }
+  },
+  "Old Sage's Blindfold": {
+    "name": "Old Sage's Blindfold",
+    "poise": "2.2",
+    "durability": "20",
+    "weight": "1.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "8.0",
+        "lightning": "6.6",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "11",
+      "poison": "14",
+      "curse": "28"
+    }
+  },
+  "Rampart Golem Helm": {
+    "name": "Rampart Golem Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "39",
+      "poison": "24",
+      "curse": "15"
+    }
+  },
+  "Cathedral Knight Helm": {
+    "name": "Cathedral Knight Helm",
+    "poise": "13.8",
+    "durability": "47",
+    "weight": "7.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "26",
+      "poison": "26",
+      "curse": "20"
+    }
+  },
+  "Smelter Demon Helm": {
+    "name": "Smelter Demon Helm",
+    "poise": "11.4",
+    "durability": "35",
+    "weight": "5.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": { "bleed": "17", "frost": "9", "poison": "10", "curse": "9" }
+  },
+  "Penetrator Helm": {
+    "name": "Penetrator Helm",
+    "poise": "13.6",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "22",
+      "poison": "25",
+      "curse": "15"
+    }
+  },
+  "Vilhelm's Helm": {
+    "name": "Vilhelm's Helm",
+    "poise": "9.3",
+    "durability": "37",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "4.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "16",
+      "poison": "15",
+      "curse": "43"
+    }
+  },
+  "Ringed Knight Hood": {
+    "name": "Ringed Knight Hood",
+    "poise": "11.4",
+    "durability": "22",
+    "weight": "5.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "14",
+      "poison": "18",
+      "curse": "33"
+    }
+  },
+  "Undead Legion Helm": {
+    "name": "Undead Legion Helm",
+    "poise": "9.8",
+    "durability": "36",
+    "weight": "3.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.0",
+        "strike": "4.2",
+        "slash": "4.6",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "29",
+      "poison": "24",
+      "curse": "21"
+    }
+  },
+  "Alva Helm": {
+    "name": "Alva Helm",
+    "poise": "10.2",
+    "durability": "36",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.6",
+        "slash": "5.0",
+        "thrust": "4.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "19",
+      "poison": "18",
+      "curse": "12"
+    }
+  },
+  "Northern Helm": {
+    "name": "Northern Helm",
+    "poise": "9.3",
+    "durability": "37",
+    "weight": "3.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "6.6",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "36",
+      "poison": "15",
+      "curse": "10"
+    }
+  },
+  "Ancient King's Mask": {
+    "name": "Ancient King's Mask",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.0",
+        "slash": "5.4",
+        "thrust": "5.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "17",
+      "poison": "16",
+      "curse": "17"
+    }
+  },
+  "Smough's Helm": {
+    "name": "Smough's Helm",
+    "poise": "14.1",
+    "durability": "50",
+    "weight": "8.1",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "27",
+      "poison": "27",
+      "curse": "24"
+    }
+  },
+  "Exile Mask": {
+    "name": "Exile Mask",
+    "poise": "12.7",
+    "durability": "47",
+    "weight": "6.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "7.6",
+        "strike": "6.8",
+        "slash": "7.2",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "39",
+      "frost": "24",
+      "poison": "29",
+      "curse": "19"
+    }
+  },
+  "Outrider Knight Helm": {
+    "name": "Outrider Knight Helm",
+    "poise": "9.9",
+    "durability": "36",
+    "weight": "3.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.2",
+        "strike": "4.4",
+        "slash": "4.8",
+        "thrust": "4.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "52",
+      "poison": "12",
+      "curse": "5"
+    }
+  },
+  "Lucatiel's Mask": {
+    "name": "Lucatiel's Mask",
+    "poise": "4.9",
+    "durability": "27",
+    "weight": "2.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.8",
+        "slash": "3.0",
+        "thrust": "4.6"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "5.6",
+        "lightning": "7.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "22",
+      "poison": "26",
+      "curse": "24"
+    }
+  },
+  "Binded Hood": {
+    "name": "Binded Hood",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "20",
+      "poison": "31",
+      "curse": "27"
+    }
+  },
+  "Crown of the Great Lord": {
+    "name": "Crown of the Great Lord",
+    "poise": "12.0",
+    "durability": "38",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "6.2",
+        "slash": "6.6",
+        "thrust": "6.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.6",
+        "lightning": "10.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "12",
+      "curse": "15"
+    }
+  },
+  "Shira's Crown": {
+    "name": "Shira's Crown",
+    "poise": "4.2",
+    "durability": "20",
+    "weight": "2.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "2.8",
+        "strike": "2.0",
+        "slash": "2.4",
+        "thrust": "2.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "5",
+      "frost": "11",
+      "poison": "16",
+      "curse": "30"
+    }
+  },
+  "Thief Mask": {
+    "name": "Thief Mask",
+    "poise": "4.5",
+    "durability": "25",
+    "weight": "2.2",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "23",
+      "frost": "21",
+      "poison": "26",
+      "curse": "17"
+    }
+  },
+  "Quicksilver Helm": {
+    "name": "Quicksilver Helm",
+    "poise": "13.5",
+    "durability": "47",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "27",
+      "poison": "17",
+      "curse": "17"
+    }
+  },
+  "Grave Warden Hood": {
+    "name": "Grave Warden Hood",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "70",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "6.6",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "8",
+      "poison": "28",
+      "curse": "25"
+    }
+  },
+  "Morne's Helm": {
+    "name": "Morne's Helm",
+    "poise": "13.5",
+    "durability": "47",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "7.2",
+        "slash": "7.6",
+        "thrust": "7.4"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "27",
+      "poison": "17",
+      "curse": "17"
+    }
+  },
+  "Pontiff Knight Crown": {
+    "name": "Pontiff Knight Crown",
+    "poise": "6.0",
+    "durability": "27",
+    "weight": "2.8",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "3.8",
+        "strike": "3.0",
+        "slash": "3.4",
+        "thrust": "3.2"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "4.0",
+        "lightning": "6.6",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "31",
+      "poison": "12",
+      "curse": "10"
+    }
+  },
+  "Shadow Mask": {
+    "name": "Shadow Mask",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "4.0",
+        "lightning": "5.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "20",
+      "poison": "18",
+      "curse": "18"
+    }
+  },
+  "Brushwood Helm": {
+    "name": "Brushwood Helm",
+    "poise": "14.0",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "35",
+      "frost": "25",
+      "poison": "25",
+      "curse": "25"
+    }
+  },
+  "Faraam Helm": {
+    "name": "Faraam Helm",
+    "poise": "10.0",
+    "durability": "20",
+    "weight": "4.1",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "5.4",
+        "strike": "4.6",
+        "slash": "5.0",
+        "thrust": "4.8"
+      },
+      "elemental": {
+        "magic": "6.4",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "6.4"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "28",
+      "poison": "22",
+      "curse": "14"
+    }
+  },
+  "Imperious Head": {
+    "name": "Imperious Head",
+    "poise": "11.7",
+    "durability": "41",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.8",
+        "strike": "6.0",
+        "slash": "6.4",
+        "thrust": "6.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "21",
+      "poison": "19",
+      "curse": "15"
+    }
+  },
+  "Assassin Hood": {
+    "name": "Assassin Hood",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.2",
+        "strike": "1.4",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "20",
+      "poison": "27",
+      "curse": "20"
+    }
+  },
+  "Havel's Helm": {
+    "name": "Havel's Helm",
+    "poise": "14.7",
+    "durability": "50",
+    "weight": "8.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.8",
+        "strike": "8.0",
+        "slash": "8.4",
+        "thrust": "8.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "8.0",
+        "lightning": "4.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "30",
+      "poison": "30",
+      "curse": "26"
+    }
+  },
+  "Worker Hat": {
+    "name": "Worker Hat",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "4.0",
+        "lightning": "4.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "20",
+      "poison": "31",
+      "curse": "27"
+    }
+  },
+  "Pharis's Hat": {
+    "name": "Pharis's Hat",
+    "poise": "4.2",
+    "durability": "25",
+    "weight": "2.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.8",
+        "strike": "2.0",
+        "slash": "2.4",
+        "thrust": "2.2"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "24",
+      "poison": "26",
+      "curse": "20"
+    }
+  },
+  "Painting Guardian Hood": {
+    "name": "Painting Guardian Hood",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.5",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "2.2",
+        "strike": "1.4",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "15",
+      "poison": "30",
+      "curse": "25"
+    }
+  },
+  "Grotto Hat": {
+    "name": "Grotto Hat",
+    "poise": "3.8",
+    "durability": "24",
+    "weight": "1.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "33",
+      "poison": "28",
+      "curse": "33"
+    }
+  },
+  "Lapp's Helm": {
+    "name": "Lapp's Helm",
+    "poise": "13.6",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "22",
+      "poison": "25",
+      "curse": "15"
+    }
+  },
+  "Ivory King Helm": {
+    "name": "Ivory King Helm",
+    "poise": "11.4",
+    "durability": "22",
+    "weight": "5.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "14",
+      "poison": "18",
+      "curse": "33"
+    }
+  },
+  "Venerable Sage's Hood": {
+    "name": "Venerable Sage's Hood",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "15",
+      "poison": "21",
+      "curse": "33"
+    }
+  },
+  "Herald Helm": {
+    "name": "Herald Helm",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "4.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "14",
+      "curse": "10"
+    }
+  },
+  "Billed Mask": {
+    "name": "Billed Mask",
+    "poise": "4.5",
+    "durability": "36",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.6",
+        "slash": "3.0",
+        "thrust": "2.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "14",
+      "poison": "16",
+      "curse": "48"
+    }
+  },
+  "Lothric Knight Helm": {
+    "name": "Lothric Knight Helm",
+    "poise": "13.2",
+    "durability": "41",
+    "weight": "7.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "7.8",
+        "strike": "7.0",
+        "slash": "7.4",
+        "thrust": "7.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "4.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "22",
+      "poison": "18",
+      "curse": "14"
+    }
+  },
+  "Catarina Helm": {
+    "name": "Catarina Helm",
+    "poise": "13.8",
+    "durability": "46",
+    "weight": "7.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.2",
+        "strike": "7.4",
+        "slash": "7.8",
+        "thrust": "7.6"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "7.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "27",
+      "poison": "27",
+      "curse": "17"
+    }
+  },
+  "Bone Ash Mask": {
+    "name": "Bone Ash Mask",
+    "poise": "9.3",
+    "durability": "37",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.6",
+        "slash": "4.0",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "16",
+      "poison": "15",
+      "curse": "19"
+    }
+  },
+  "Crown of Dusk": {
+    "name": "Crown of Dusk",
+    "poise": "1.5",
+    "durability": "20",
+    "weight": "0.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "5.0",
+        "lightning": "5.6",
+        "dark": "5.6"
+      }
+    },
+    "resistances": { "bleed": "5", "frost": "8", "poison": "12", "curse": "33" }
+  },
+  "Golden Crown": {
+    "name": "Golden Crown",
+    "poise": "6.0",
+    "durability": "28",
+    "weight": "3.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.0",
+        "strike": "3.2",
+        "slash": "3.6",
+        "thrust": "3.4"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "8.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "27"
+    }
+  },
+  "Ruin Helm": {
+    "name": "Ruin Helm",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "7.2",
+        "strike": "6.4",
+        "slash": "6.8",
+        "thrust": "6.6"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "13",
+      "poison": "24",
+      "curse": "12"
+    }
+  },
+  "Silver Mask": {
+    "name": "Silver Mask",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "8.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "28",
+      "poison": "27",
+      "curse": "27"
+    }
+  },
+  "Sellsword Helm": {
+    "name": "Sellsword Helm",
+    "poise": "4.5",
+    "durability": "35",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.4",
+        "strike": "2.6",
+        "slash": "3.0",
+        "thrust": "2.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "4.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "16",
+      "poison": "17",
+      "curse": "12"
+    }
+  },
+  "Court Sorcerer Hood": {
+    "name": "Court Sorcerer Hood",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "8.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "15",
+      "poison": "21",
+      "curse": "33"
+    }
+  },
+  "Creighton's Steel Mask": {
+    "name": "Creighton's Steel Mask",
+    "poise": "9.6",
+    "durability": "41",
+    "weight": "3.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "5.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "19",
+      "poison": "19",
+      "curse": "12"
+    }
+  },
+  "Heide Knight Greathelm": {
+    "name": "Heide Knight Greathelm",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.4",
+        "strike": "6.6",
+        "slash": "7.0",
+        "thrust": "6.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "5.6",
+        "lightning": "8.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "19",
+      "poison": "19",
+      "curse": "19"
+    }
+  },
+  "Porcelain Mask": {
+    "name": "Porcelain Mask",
+    "poise": "10.8",
+    "durability": "40",
+    "weight": "4.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.2",
+        "slash": "5.6",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "5.6"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "25",
+      "poison": "23",
+      "curse": "18"
+    }
+  },
+  "Karla's Pointed Hat": {
+    "name": "Karla's Pointed Hat",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "8.0",
+        "lightning": "8.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "13",
+      "poison": "15",
+      "curse": "23"
+    }
+  },
+  "Conjurator Hood": {
+    "name": "Conjurator Hood",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.6",
+        "strike": "1.8",
+        "slash": "2.2",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "6.6",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "19",
+      "poison": "12",
+      "curse": "26"
+    }
+  },
+  "Pursuer's Helm": {
+    "name": "Pursuer's Helm",
+    "poise": "14.2",
+    "durability": "50",
+    "weight": "8.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.6",
+        "strike": "7.8",
+        "slash": "8.2",
+        "thrust": "8.0"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "6.0",
+        "lightning": "7.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "27",
+      "poison": "27",
+      "curse": "48"
+    }
+  },
+  "Millwood Knight Helm": {
+    "name": "Millwood Knight Helm",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "8.4",
+        "strike": "7.6",
+        "slash": "8.0",
+        "thrust": "7.8"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "30",
+      "poison": "26",
+      "curse": "16"
+    }
+  },
+  "Nameless Knight Helm": {
+    "name": "Nameless Knight Helm",
+    "poise": "10.2",
+    "durability": "35",
+    "weight": "4.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.6",
+        "strike": "4.8",
+        "slash": "5.2",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "7.0",
+        "lightning": "5.6",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "14",
+      "poison": "15",
+      "curse": "10"
+    }
+  },
+  "Dragonslayer Helm": {
+    "name": "Dragonslayer Helm",
+    "poise": "13.0",
+    "durability": "41",
+    "weight": "7.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.8",
+        "strike": "7.0",
+        "slash": "7.4",
+        "thrust": "7.2"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "18",
+      "poison": "18",
+      "curse": "16"
+    }
+  },
+  "Brigand Hood": {
+    "name": "Brigand Hood",
+    "poise": "4.2",
+    "durability": "26",
+    "weight": "2.1",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.0",
+        "strike": "2.2",
+        "slash": "2.6",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "5.0",
+        "lightning": "5.6",
+        "dark": "4.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "28",
+      "poison": "29",
+      "curse": "19"
+    }
+  },
+  "Footman's Hood": {
+    "name": "Footman's Hood",
+    "poise": "9.9",
+    "durability": "25",
+    "weight": "3.9",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "5.2",
+        "strike": "4.4",
+        "slash": "4.8",
+        "thrust": "4.6"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "4.0",
+        "lightning": "5.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": { "bleed": "6", "frost": "14", "poison": "8", "curse": "14" }
+  },
+  "Crown of the Dark Sun": {
+    "name": "Crown of the Dark Sun",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.0",
+        "slash": "1.4",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "7.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "12",
+      "poison": "15",
+      "curse": "28"
+    }
+  },
+  "Sunless Veil": {
+    "name": "Sunless Veil",
+    "poise": "4.5",
+    "durability": "23",
+    "weight": "2.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "5.6",
+        "lightning": "5.0",
+        "dark": "6.6"
+      }
+    },
+    "resistances": {
+      "bleed": "7",
+      "frost": "10",
+      "poison": "14",
+      "curse": "30"
+    }
+  },
+  "Xanthous Crown": {
+    "name": "Xanthous Crown",
+    "poise": "4.5",
+    "durability": "27",
+    "weight": "2.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.2",
+        "strike": "2.4",
+        "slash": "2.8",
+        "thrust": "2.6"
+      },
+      "elemental": {
+        "magic": "7.0",
+        "fire": "4.0",
+        "lightning": "7.0",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "24",
+      "poison": "27",
+      "curse": "27"
+    }
+  },
+  "Slave Knight Hood": {
+    "name": "Slave Knight Hood",
+    "poise": "9.1",
+    "durability": "35",
+    "weight": "3.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "3.4",
+        "slash": "3.8",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "4.0",
+        "fire": "5.6",
+        "lightning": "4.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "15",
+      "poison": "14",
+      "curse": "9"
+    }
+  },
+  "Alonne's Helm": {
+    "name": "Alonne's Helm",
+    "poise": "11.3",
+    "durability": "36",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.6",
+        "fire": "6.4",
+        "lightning": "5.6",
+        "dark": "7.0"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "15",
+      "poison": "12",
+      "curse": "9"
+    }
+  },
+  "Courtier's Wig": {
+    "name": "Courtier's Wig",
+    "poise": "6.0",
+    "durability": "28",
+    "weight": "3.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.0",
+        "strike": "3.2",
+        "slash": "3.6",
+        "thrust": "3.4"
+      },
+      "elemental": {
+        "magic": "8.0",
+        "fire": "5.0",
+        "lightning": "5.0",
+        "dark": "8.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "28",
+      "poison": "29",
+      "curse": "27"
+    }
+  },
+  "Eastern Helm": {
+    "name": "Eastern Helm",
+    "poise": "11.3",
+    "durability": "36",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.6",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.0",
+        "fire": "6.4",
+        "lightning": "5.0",
+        "dark": "5.0"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "15",
+      "poison": "12",
+      "curse": "9"
+    }
+  }
+}

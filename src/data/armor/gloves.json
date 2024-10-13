@@ -1,0 +1,3248 @@
+{
+  "Violet Wrappings": {
+    "name": "Violet Wrappings",
+    "poise": "4.0",
+    "durability": "21",
+    "weight": "0.9",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "10",
+      "poison": "17",
+      "curse": "21"
+    }
+  },
+  "Burial Knight Gauntlets": {
+    "name": "Burial Knight Gauntlets",
+    "poise": "10.2",
+    "durability": "36",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "3.6",
+        "slash": "3.9",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "11",
+      "poison": "12",
+      "curse": "7"
+    }
+  },
+  "Steel Gauntlets": {
+    "name": "Steel Gauntlets",
+    "poise": "13.8",
+    "durability": "47",
+    "weight": "7.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.2",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "4.5",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "22",
+      "poison": "22",
+      "curse": "14"
+    }
+  },
+  "Pontiff's Bracelets": {
+    "name": "Pontiff's Bracelets",
+    "poise": "6.0",
+    "durability": "28",
+    "weight": "2.8",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "2.9",
+        "strike": "2.2",
+        "slash": "2.5",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "3.0",
+        "lightning": "4.9",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "28",
+      "poison": "13",
+      "curse": "10"
+    }
+  },
+  "Drang Gauntlets": {
+    "name": "Drang Gauntlets",
+    "poise": "3.0",
+    "durability": "25",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.6",
+        "strike": "1.1",
+        "slash": "1.3",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "3.8",
+        "lightning": "5.3",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "21",
+      "poison": "19",
+      "curse": "14"
+    }
+  },
+  "Brass Gauntlets": {
+    "name": "Brass Gauntlets",
+    "poise": "11.1",
+    "durability": "37",
+    "weight": "5.1",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.7",
+        "strike": "4.0",
+        "slash": "4.4",
+        "thrust": "4.2"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "11",
+      "poison": "10",
+      "curse": "8"
+    }
+  },
+  "Black Manchettes": {
+    "name": "Black Manchettes",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.2",
+        "slash": "1.5",
+        "thrust": "1.3"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "3.8",
+        "lightning": "5.3",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "11",
+      "poison": "21",
+      "curse": "25"
+    }
+  },
+  "Black Iron Gauntlets": {
+    "name": "Black Iron Gauntlets",
+    "poise": "13.8",
+    "durability": "45",
+    "weight": "7.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "6.0",
+        "lightning": "3.8",
+        "dark": "4.5"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "20",
+      "poison": "16",
+      "curse": "14"
+    }
+  },
+  "Gauntlets of Favor": {
+    "name": "Gauntlets of Favor",
+    "poise": "10.8",
+    "durability": "38",
+    "weight": "4.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "3.9",
+        "slash": "4.2",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "14",
+      "poison": "13",
+      "curse": "10"
+    }
+  },
+  "Jailer Gloves": {
+    "name": "Jailer Gloves",
+    "poise": "4.8",
+    "durability": "23",
+    "weight": "2.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "4.9",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "13",
+      "poison": "15",
+      "curse": "52"
+    }
+  },
+  "Iron Bracelets": {
+    "name": "Iron Bracelets",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "3.0",
+        "slash": "3.3",
+        "thrust": "3.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": { "bleed": "11", "frost": "10", "poison": "9", "curse": "9" }
+  },
+  "Old Sorcerer Gauntlets": {
+    "name": "Old Sorcerer Gauntlets",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "5.3",
+      "frost": "12",
+      "poison": "14",
+      "curse": "24"
+    }
+  },
+  "Mad Warrior Gauntlets": {
+    "name": "Mad Warrior Gauntlets",
+    "poise": "11.7",
+    "durability": "42",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.1",
+        "strike": "4.5",
+        "slash": "4.8",
+        "thrust": "4.7"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "14",
+      "poison": "13",
+      "curse": "9"
+    }
+  },
+  "Black Knight Gauntlets": {
+    "name": "Black Knight Gauntlets",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "4.9",
+        "slash": "5.3",
+        "thrust": "5.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "11",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Black Witch Wrappings": {
+    "name": "Black Witch Wrappings",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": { "bleed": "5", "frost": "9", "poison": "13", "curse": "43" }
+  },
+  "Black Dragon Gauntlets": {
+    "name": "Black Dragon Gauntlets",
+    "poise": "11.4",
+    "durability": "42",
+    "weight": "5.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.9",
+        "strike": "4.4",
+        "slash": "4.7",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "14",
+      "poison": "13",
+      "curse": "9"
+    }
+  },
+  "Drakekeeper Gauntlets": {
+    "name": "Drakekeeper Gauntlets",
+    "poise": "13.8",
+    "durability": "45",
+    "weight": "7.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "21",
+      "poison": "21",
+      "curse": "15"
+    }
+  },
+  "Gundyr's Gauntlets": {
+    "name": "Gundyr's Gauntlets",
+    "poise": "14",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "21",
+      "poison": "21",
+      "curse": "21"
+    }
+  },
+  "Dragonrider Gauntlets": {
+    "name": "Dragonrider Gauntlets",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "23",
+      "poison": "20",
+      "curse": "12"
+    }
+  },
+  "Maiden Gloves": {
+    "name": "Maiden Gloves",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "11",
+      "poison": "14",
+      "curse": "26"
+    }
+  },
+  "Sunset Gauntlets": {
+    "name": "Sunset Gauntlets",
+    "poise": "10.5",
+    "durability": "40",
+    "weight": "4.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.8",
+        "slash": "4.0",
+        "thrust": "3.9"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "16",
+      "poison": "22",
+      "curse": "17"
+    }
+  },
+  "Varangian Cuffs": {
+    "name": "Varangian Cuffs",
+    "poise": "9.3",
+    "durability": "32",
+    "weight": "3.3",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.3",
+        "strike": "2.7",
+        "slash": "3.0",
+        "thrust": "2.9"
+      },
+      "elemental": {
+        "magic": "3.0",
+        "fire": "3.0",
+        "lightning": "4.9",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "20",
+      "poison": "19",
+      "curse": "19"
+    }
+  },
+  "Syan Knight Gauntlets": {
+    "name": "Syan Knight Gauntlets",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "4.9",
+        "slash": "5.3",
+        "thrust": "5.1"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "17",
+      "poison": "18",
+      "curse": "14"
+    }
+  },
+  "Pale Shade Gloves": {
+    "name": "Pale Shade Gloves",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "4.9",
+        "dark": "4.9"
+      }
+    },
+    "resistances": { "bleed": "9", "frost": "8", "poison": "17", "curse": "21" }
+  },
+  "Drakeblood Gauntlets": {
+    "name": "Drakeblood Gauntlets",
+    "poise": "11.7",
+    "durability": "42",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.1",
+        "strike": "4.5",
+        "slash": "4.8",
+        "thrust": "4.7"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "14",
+      "poison": "13",
+      "curse": "9"
+    }
+  },
+  "Yhorm's Gauntlets": {
+    "name": "Yhorm's Gauntlets",
+    "poise": "11.4",
+    "durability": "32",
+    "weight": "5.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.9",
+        "strike": "4.4",
+        "slash": "4.7",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": { "bleed": "11", "frost": "7", "poison": "8", "curse": "7" }
+  },
+  "Firelink Gauntlets": {
+    "name": "Firelink Gauntlets",
+    "poise": "11.3",
+    "durability": "28",
+    "weight": "5.2",
+    "price": "2,000",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.2",
+        "slash": "4.5",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "24",
+      "poison": "22",
+      "curse": "21"
+    }
+  },
+  "Hard Leather Gauntlets": {
+    "name": "Hard Leather Gauntlets",
+    "poise": "4.9",
+    "durability": "27",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.2",
+        "lightning": "3.0",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "21",
+      "poison": "22",
+      "curse": "17"
+    }
+  },
+  "Lorian's Gauntlets": {
+    "name": "Lorian's Gauntlets",
+    "poise": "12.0",
+    "durability": "36",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.3",
+        "strike": "4.7",
+        "slash": "4.9",
+        "thrust": "4.8"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "3.8",
+        "lightning": "3.8",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "11",
+      "poison": "7",
+      "curse": "10"
+    }
+  },
+  "Mirror Knight Gauntlets": {
+    "name": "Mirror Knight Gauntlets",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "7.5",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "23",
+      "poison": "20",
+      "curse": "12"
+    }
+  },
+  "Wolf Knight Gauntlets": {
+    "name": "Wolf Knight Gauntlets",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.8",
+        "slash": "4.0",
+        "thrust": "3.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "4.8"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "14",
+      "poison": "13",
+      "curse": "14"
+    }
+  },
+  "Hallowed Knight Gauntlets": {
+    "name": "Hallowed Knight Gauntlets",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "3.0",
+        "slash": "3.3",
+        "thrust": "3.1"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": { "bleed": "11", "frost": "10", "poison": "5", "curse": "4" }
+  },
+  "Cleric Gloves": {
+    "name": "Cleric Gloves",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.2",
+        "slash": "1.5",
+        "thrust": "1.3"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "4.9",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "11",
+      "poison": "21",
+      "curse": "25"
+    }
+  },
+  "Iron Dragonslayer Gauntlets": {
+    "name": "Iron Dragonslayer Gauntlets",
+    "poise": "13.2",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "4.5",
+        "fire": "6.0",
+        "lightning": "7.5",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "26",
+      "frost": "19",
+      "poison": "17",
+      "curse": "28"
+    }
+  },
+  "Gloom Gauntlets": {
+    "name": "Gloom Gauntlets",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "4.9",
+        "slash": "5.3",
+        "thrust": "5.1"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "17",
+      "poison": "18",
+      "curse": "14"
+    }
+  },
+  "Fire Keeper Gloves": {
+    "name": "Fire Keeper Gloves",
+    "poise": "1.5",
+    "durability": "22",
+    "weight": "0.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "11",
+      "poison": "15",
+      "curse": "23"
+    }
+  },
+  "Silver Knight Gauntlets": {
+    "name": "Silver Knight Gauntlets",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "4.9",
+        "slash": "5.3",
+        "thrust": "5.1"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "17",
+      "poison": "18",
+      "curse": "14"
+    }
+  },
+  "Sorcerer Gloves": {
+    "name": "Sorcerer Gloves",
+    "poise": "2.2",
+    "durability": "23",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "10",
+      "poison": "13",
+      "curse": "23"
+    }
+  },
+  "Desert Pyromancer Gloves": {
+    "name": "Desert Pyromancer Gloves",
+    "poise": "1.5",
+    "durability": "21",
+    "weight": "1.0",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "4.9",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "9",
+      "frost": "11",
+      "poison": "25",
+      "curse": "25"
+    }
+  },
+  "Vileblood Gauntlets": {
+    "name": "Vileblood Gauntlets",
+    "poise": "4.5",
+    "durability": "36",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "11",
+      "poison": "13",
+      "curse": "15"
+    }
+  },
+  "Follower Gloves": {
+    "name": "Follower Gloves",
+    "poise": "6.0",
+    "durability": "26",
+    "weight": "3.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.0",
+        "strike": "2.4",
+        "slash": "2.7",
+        "thrust": "2.5"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "32",
+      "poison": "20",
+      "curse": "16"
+    }
+  },
+  "Fire Witch Gauntlets": {
+    "name": "Fire Witch Gauntlets",
+    "poise": "9.5",
+    "durability": "35",
+    "weight": "3.5",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.5",
+        "strike": "2.9",
+        "slash": "3.1",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "12",
+      "poison": "10",
+      "curse": "9"
+    }
+  },
+  "Elite Knight Gauntlets": {
+    "name": "Elite Knight Gauntlets",
+    "poise": "10.2",
+    "durability": "35",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "3.6",
+        "slash": "3.9",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "14",
+      "poison": "13",
+      "curse": "9"
+    }
+  },
+  "Executioner Gauntlets": {
+    "name": "Executioner Gauntlets",
+    "poise": "13.3",
+    "durability": "46",
+    "weight": "7.3",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.4",
+        "slash": "5.7",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "23",
+      "poison": "22",
+      "curse": "17"
+    }
+  },
+  "Fallen Knight Gauntlets": {
+    "name": "Fallen Knight Gauntlets",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "3.0",
+        "slash": "3.3",
+        "thrust": "3.1"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": { "bleed": "11", "frost": "10", "poison": "5", "curse": "4" }
+  },
+  "Gauntlets of the Vanquisher": {
+    "name": "Gauntlets of the Vanquisher",
+    "poise": "10.2",
+    "durability": "37",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "2.9",
+        "slash": "3.9",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "5.3",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "11",
+      "poison": "12",
+      "curse": "7"
+    }
+  },
+  "Dancer's Gauntlets": {
+    "name": "Dancer's Gauntlets",
+    "poise": "5.3",
+    "durability": "28",
+    "weight": "2.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "2.7",
+        "strike": "2.1",
+        "slash": "2.4",
+        "thrust": "2.2"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.0",
+        "lightning": "3.8",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "20",
+      "poison": "12",
+      "curse": "9"
+    }
+  },
+  "Pyromancer Wrap": {
+    "name": "Pyromancer Wrap",
+    "poise": "3.0",
+    "durability": "23",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "6",
+      "frost": "11",
+      "poison": "14",
+      "curse": "22"
+    }
+  },
+  "Winged Knight Gauntlets": {
+    "name": "Winged Knight Gauntlets",
+    "poise": "14.0",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "350",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "21",
+      "poison": "21",
+      "curse": "13"
+    }
+  },
+  "Dark Gauntlets": {
+    "name": "Dark Gauntlets",
+    "poise": "9.8",
+    "durability": "35",
+    "weight": "3.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.8",
+        "strike": "3.1",
+        "slash": "3.5",
+        "thrust": "3.3"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "3.8",
+        "lightning": "2.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "10",
+      "poison": "9",
+      "curse": "40"
+    }
+  },
+  "Giant Gauntlets": {
+    "name": "Giant Gauntlets",
+    "poise": "14.4",
+    "durability": "50",
+    "weight": "8.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "20",
+      "poison": "20",
+      "curse": "18"
+    }
+  },
+  "Leather Gauntlets": {
+    "name": "Leather Gauntlets",
+    "poise": "9.5",
+    "durability": "27",
+    "weight": "3.5",
+    "price": "80",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "3.8",
+        "lightning": "3.0",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "16",
+      "poison": "18",
+      "curse": "16"
+    }
+  },
+  "Knight Gauntlets": {
+    "name": "Knight Gauntlets",
+    "poise": "10.2",
+    "durability": "37",
+    "weight": "4.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "2.9",
+        "slash": "3.9",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "11",
+      "poison": "12",
+      "curse": "7"
+    }
+  },
+  "Evangelist Gloves": {
+    "name": "Evangelist Gloves",
+    "poise": "5.3",
+    "durability": "27",
+    "weight": "2.7",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "2.7",
+        "strike": "2.1",
+        "slash": "2.4",
+        "thrust": "2.2"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.9",
+        "lightning": "5.3",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "19",
+      "poison": "22",
+      "curse": "21"
+    }
+  },
+  "Paladin Gauntlets": {
+    "name": "Paladin Gauntlets",
+    "poise": "13.5",
+    "durability": "42",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.4",
+        "slash": "5.7",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "6.0",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "18",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Master's Gloves": {
+    "name": "Master's Gloves",
+    "poise": "0.7",
+    "durability": "10",
+    "weight": "0.7",
+    "price": "10",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "2.2",
+        "fire": "2.2",
+        "lightning": "2.2",
+        "dark": "2.2"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "9",
+      "poison": "22",
+      "curse": "26"
+    }
+  },
+  "Cornyx's Wrap": {
+    "name": "Cornyx's Wrap",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "6.0",
+        "lightning": "4.9",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "7",
+      "frost": "11",
+      "poison": "13",
+      "curse": "26"
+    }
+  },
+  "Rampart Golem Gauntlets": {
+    "name": "Rampart Golem Gauntlets",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "5.4",
+        "strike": "4.8",
+        "slash": "5.1",
+        "thrust": "4.9"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "3.8",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "30",
+      "poison": "19",
+      "curse": "9"
+    }
+  },
+  "Cathedral Knight Gauntlets": {
+    "name": "Cathedral Knight Gauntlets",
+    "poise": "13.8",
+    "durability": "45",
+    "weight": "7.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "4.5",
+        "lightning": "4.5",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "21",
+      "poison": "21",
+      "curse": "15"
+    }
+  },
+  "Hexer's Gloves": {
+    "name": "Hexer's Gloves",
+    "poise": "2.2",
+    "durability": "20",
+    "weight": "1.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "3.8",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "13",
+      "poison": "12",
+      "curse": "38"
+    }
+  },
+  "Smelter Demon Gauntlets": {
+    "name": "Smelter Demon Gauntlets",
+    "poise": "11.4",
+    "durability": "32",
+    "weight": "5.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.9",
+        "strike": "4.4",
+        "slash": "4.7",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": { "bleed": "11", "frost": "7", "poison": "8", "curse": "7" }
+  },
+  "Penetrator Gauntlets": {
+    "name": "Penetrator Gauntlets",
+    "poise": "13.6",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "11"
+    }
+  },
+  "Harald Legion Gauntlets": {
+    "name": "Harald Legion Gauntlets",
+    "poise": "13.1",
+    "durability": "26",
+    "weight": "7.1",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.3",
+        "slash": "5.5",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "4.2",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "15",
+      "poison": "19",
+      "curse": "39"
+    }
+  },
+  "Vilhelm's Gauntlets": {
+    "name": "Vilhelm's Gauntlets",
+    "poise": "9.3",
+    "durability": "37",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.3",
+        "strike": "2.7",
+        "slash": "3.0",
+        "thrust": "2.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "3.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "12",
+      "poison": "12",
+      "curse": "40"
+    }
+  },
+  "Ringed Knight Gauntlets": {
+    "name": "Ringed Knight Gauntlets",
+    "poise": "11.4",
+    "durability": "40",
+    "weight": "5.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "4.9",
+        "strike": "4.4",
+        "slash": "4.7",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "15",
+      "poison": "13",
+      "curse": "13"
+    }
+  },
+  "Undead Legion Gauntlets": {
+    "name": "Undead Legion Gauntlets",
+    "poise": "9.8",
+    "durability": "28",
+    "weight": "3.7",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.8",
+        "strike": "3.1",
+        "slash": "3.5",
+        "thrust": "3.3"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "24",
+      "poison": "20",
+      "curse": "17"
+    }
+  },
+  "Ancient King's Gauntlets": {
+    "name": "Ancient King's Gauntlets",
+    "poise": "10.5",
+    "durability": "36",
+    "weight": "4.5",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.4",
+        "strike": "3.8",
+        "slash": "4.0",
+        "thrust": "3.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "14",
+      "poison": "13",
+      "curse": "14"
+    }
+  },
+  "Smough's Gauntlets": {
+    "name": "Smough's Gauntlets",
+    "poise": "14.1",
+    "durability": "50",
+    "weight": "8.1",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "20",
+      "poison": "20",
+      "curse": "18"
+    }
+  },
+  "Outrider Knight Gauntlets": {
+    "name": "Outrider Knight Gauntlets",
+    "poise": "9.9",
+    "durability": "36",
+    "weight": "3.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.9",
+        "strike": "3.3",
+        "slash": "3.6",
+        "thrust": "3.5"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "45",
+      "poison": "10",
+      "curse": "4"
+    }
+  },
+  "Northern Gloves": {
+    "name": "Northern Gloves",
+    "poise": "9.3",
+    "durability": "27",
+    "weight": "3.3",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.3",
+        "strike": "2.7",
+        "slash": "3.0",
+        "thrust": "2.9"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.9",
+        "lightning": "3.8",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "34",
+      "poison": "19",
+      "curse": "19"
+    }
+  },
+  "Alva Gauntlets": {
+    "name": "Alva Gauntlets",
+    "poise": "10.2",
+    "durability": "36",
+    "weight": "4.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.0",
+        "strike": "3.5",
+        "slash": "3.8",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "15",
+      "poison": "14",
+      "curse": "10"
+    }
+  },
+  "Exile Gauntlets": {
+    "name": "Exile Gauntlets",
+    "poise": "12.7",
+    "durability": "46",
+    "weight": "6.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.7",
+        "strike": "5.1",
+        "slash": "5.4",
+        "thrust": "5.3"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "33",
+      "frost": "22",
+      "poison": "25",
+      "curse": "17"
+    }
+  },
+  "Mirrah Gloves": {
+    "name": "Mirrah Gloves",
+    "poise": "4.9",
+    "durability": "26",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "4.2",
+        "lightning": "5.3",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "17",
+      "frost": "17",
+      "poison": "21",
+      "curse": "19"
+    }
+  },
+  "Bracelet of the Great Lord": {
+    "name": "Bracelet of the Great Lord",
+    "poise": "12.0",
+    "durability": "36",
+    "weight": "6.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "5.3",
+        "strike": "4.7",
+        "slash": "4.9",
+        "thrust": "4.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "4.2",
+        "lightning": "7.5",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "11",
+      "poison": "7",
+      "curse": "10"
+    }
+  },
+  "Quicksilver Gauntlets": {
+    "name": "Quicksilver Gauntlets",
+    "poise": "13.5",
+    "durability": "42",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.4",
+        "slash": "5.7",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "18",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Grave Warden Wrap": {
+    "name": "Grave Warden Wrap",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "70",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "4.9",
+        "dark": "2.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "3",
+      "poison": "18",
+      "curse": "16"
+    }
+  },
+  "Shira's Gloves": {
+    "name": "Shira's Gloves",
+    "poise": "4.2",
+    "durability": "26",
+    "weight": "2.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "2.1",
+        "strike": "1.5",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "19",
+      "poison": "19",
+      "curse": "19"
+    }
+  },
+  "Pontiff Knight Gauntlets": {
+    "name": "Pontiff Knight Gauntlets",
+    "poise": "6.0",
+    "durability": "28",
+    "weight": "2.8",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "2.9",
+        "strike": "2.2",
+        "slash": "2.5",
+        "thrust": "2.4"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "3.0",
+        "lightning": "4.9",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "28",
+      "poison": "13",
+      "curse": "10"
+    }
+  },
+  "Morne's Gauntlets": {
+    "name": "Morne's Gauntlets",
+    "poise": "13.5",
+    "durability": "42",
+    "weight": "7.5",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "5.4",
+        "slash": "5.7",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "18",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Brushwood Gauntlets": {
+    "name": "Brushwood Gauntlets",
+    "poise": "14.0",
+    "durability": "47",
+    "weight": "7.9",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "21",
+      "poison": "21",
+      "curse": "21"
+    }
+  },
+  "Binded Gloves": {
+    "name": "Binded Gloves",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.2",
+        "slash": "1.5",
+        "thrust": "1.3"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.8",
+        "lightning": "3.8",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "14",
+      "poison": "22",
+      "curse": "19"
+    }
+  },
+  "Imperious Gauntlets": {
+    "name": "Imperious Gauntlets",
+    "poise": "11.7",
+    "durability": "42",
+    "weight": "5.7",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.1",
+        "strike": "4.5",
+        "slash": "4.8",
+        "thrust": "4.7"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "4.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "14",
+      "poison": "13",
+      "curse": "9"
+    }
+  },
+  "Shadow Gauntlets": {
+    "name": "Shadow Gauntlets",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "3.0",
+        "fire": "3.0",
+        "lightning": "3.8",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "14",
+      "poison": "15",
+      "curse": "13"
+    }
+  },
+  "Faraam Gauntlets": {
+    "name": "Faraam Gauntlets",
+    "poise": "10.0",
+    "durability": "41",
+    "weight": "4.1",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.0",
+        "strike": "3.5",
+        "slash": "3.8",
+        "thrust": "3.6"
+      },
+      "elemental": {
+        "magic": "4.8",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "4.8"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "22",
+      "poison": "16",
+      "curse": "11"
+    }
+  },
+  "Black Leather Gloves": {
+    "name": "Black Leather Gloves",
+    "poise": "4.5",
+    "durability": "27",
+    "weight": "2.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.8",
+        "slash": "2.1",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "18",
+      "poison": "20",
+      "curse": "14"
+    }
+  },
+  "Havel's Gauntlets": {
+    "name": "Havel's Gauntlets",
+    "poise": "14.7",
+    "durability": "50",
+    "weight": "8.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.6",
+        "strike": "6.0",
+        "slash": "6.3",
+        "thrust": "6.2"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "6.0",
+        "lightning": "3.0",
+        "dark": "4.5"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "23",
+      "poison": "23",
+      "curse": "20"
+    }
+  },
+  "Leather Gloves": {
+    "name": "Leather Gloves",
+    "poise": "4.2",
+    "durability": "23",
+    "weight": "2.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.1",
+        "strike": "1.5",
+        "slash": "1.8",
+        "thrust": "1.6"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "17",
+      "poison": "18",
+      "curse": "13"
+    }
+  },
+  "Painting Guardian Gloves": {
+    "name": "Painting Guardian Gloves",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.5",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "1.6",
+        "strike": "1.1",
+        "slash": "1.3",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "3.8",
+        "lightning": "3.0",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "13",
+      "poison": "25",
+      "curse": "21"
+    }
+  },
+  "Grotto Wrap": {
+    "name": "Grotto Wrap",
+    "poise": "3.8",
+    "durability": "20",
+    "weight": "1.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.2",
+        "slash": "1.5",
+        "thrust": "1.3"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "5.3"
+      }
+    },
+    "resistances": { "bleed": "7", "frost": "5", "poison": "11", "curse": "12" }
+  },
+  "Lapp's Gauntlets": {
+    "name": "Lapp's Gauntlets",
+    "poise": "13.6",
+    "durability": "45",
+    "weight": "7.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "17",
+      "poison": "19",
+      "curse": "11"
+    }
+  },
+  "Venerable Sage's Gloves": {
+    "name": "Venerable Sage's Gloves",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": { "bleed": "7", "frost": "7", "poison": "12", "curse": "21" }
+  },
+  "Ivory King Gauntlets": {
+    "name": "Ivory King Gauntlets",
+    "poise": "11.4",
+    "durability": "40",
+    "weight": "5.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "4.9",
+        "strike": "4.4",
+        "slash": "4.7",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "15",
+      "poison": "13",
+      "curse": "13"
+    }
+  },
+  "Black Gauntlets": {
+    "name": "Black Gauntlets",
+    "poise": "4.5",
+    "durability": "36",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "11",
+      "poison": "13",
+      "curse": "45"
+    }
+  },
+  "Assassin Gloves": {
+    "name": "Assassin Gloves",
+    "poise": "3.0",
+    "durability": "26",
+    "weight": "1.5",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.6",
+        "strike": "1.1",
+        "slash": "1.3",
+        "thrust": "1.2"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "13",
+      "poison": "20",
+      "curse": "16"
+    }
+  },
+  "Catarina Gauntlets": {
+    "name": "Catarina Gauntlets",
+    "poise": "13.8",
+    "durability": "47",
+    "weight": "7.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.2",
+        "strike": "5.5",
+        "slash": "5.8",
+        "thrust": "5.7"
+      },
+      "elemental": {
+        "magic": "4.5",
+        "fire": "4.5",
+        "lightning": "5.3",
+        "dark": "4.5"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "22",
+      "poison": "22",
+      "curse": "14"
+    }
+  },
+  "Bone Ash Gauntlets": {
+    "name": "Bone Ash Gauntlets",
+    "poise": "9.3",
+    "durability": "37",
+    "weight": "3.3",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.3",
+        "strike": "2.7",
+        "slash": "3.0",
+        "thrust": "2.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "12",
+      "poison": "12",
+      "curse": "15"
+    }
+  },
+  "Antiquated Gloves": {
+    "name": "Antiquated Gloves",
+    "poise": "1.5",
+    "durability": "21",
+    "weight": "0.9",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "8",
+      "frost": "10",
+      "poison": "13",
+      "curse": "29"
+    }
+  },
+  "Worker Gloves": {
+    "name": "Worker Gloves",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.6",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "1.8",
+        "strike": "1.2",
+        "slash": "1.5",
+        "thrust": "1.3"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.0",
+        "lightning": "3.0",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "14",
+      "poison": "22",
+      "curse": "19"
+    }
+  },
+  "Golden Bracelets": {
+    "name": "Golden Bracelets",
+    "poise": "6.0",
+    "durability": "25",
+    "weight": "3.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.0",
+        "strike": "2.4",
+        "slash": "2.7",
+        "thrust": "2.5"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "6.0",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "16",
+      "poison": "18",
+      "curse": "13"
+    }
+  },
+  "Lothric Knight Gauntlets": {
+    "name": "Lothric Knight Gauntlets",
+    "poise": "13.2",
+    "durability": "42",
+    "weight": "7.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.3",
+        "slash": "5.5",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "3.0",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "19",
+      "poison": "15",
+      "curse": "12"
+    }
+  },
+  "Ruin Gauntlets": {
+    "name": "Ruin Gauntlets",
+    "poise": "12.3",
+    "durability": "40",
+    "weight": "6.3",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "5.4",
+        "strike": "4.8",
+        "slash": "5.1",
+        "thrust": "4.9"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "10",
+      "poison": "19",
+      "curse": "9"
+    }
+  },
+  "Herald Gloves": {
+    "name": "Herald Gloves",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "3.0",
+        "slash": "3.3",
+        "thrust": "3.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "3.0",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "12",
+      "poison": "12",
+      "curse": "8"
+    }
+  },
+  "Leonhard's Gauntlets": {
+    "name": "Leonhard's Gauntlets",
+    "poise": "4.5",
+    "durability": "28",
+    "weight": "2.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.8",
+        "slash": "2.1",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "6.0",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "12",
+      "frost": "18",
+      "poison": "18",
+      "curse": "18"
+    }
+  },
+  "Court Sorcerer Gloves": {
+    "name": "Court Sorcerer Gloves",
+    "poise": "2.2",
+    "durability": "21",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "6.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": { "bleed": "7", "frost": "7", "poison": "12", "curse": "21" }
+  },
+  "Sellsword Gauntlet": {
+    "name": "Sellsword Gauntlet",
+    "poise": "4.5",
+    "durability": "23",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.5",
+        "strike": "2.0",
+        "slash": "2.2",
+        "thrust": "2.1"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.8",
+        "lightning": "3.0",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "11",
+      "poison": "10",
+      "curse": "8"
+    }
+  },
+  "Heide Knight Gauntlets": {
+    "name": "Heide Knight Gauntlets",
+    "poise": "12.6",
+    "durability": "40",
+    "weight": "6.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "4.9",
+        "slash": "5.3",
+        "thrust": "5.1"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.2",
+        "lightning": "6.0",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "11",
+      "poison": "12",
+      "curse": "11"
+    }
+  },
+  "Mirrah Chain Gloves": {
+    "name": "Mirrah Chain Gloves",
+    "poise": "9.6",
+    "durability": "35",
+    "weight": "3.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "3.6",
+        "strike": "3.0",
+        "slash": "3.3",
+        "thrust": "3.1"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "3.8",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "14",
+      "poison": "13",
+      "curse": "11"
+    }
+  },
+  "Karla's Gloves": {
+    "name": "Karla's Gloves",
+    "poise": "3.0",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "6.0",
+        "lightning": "6.0",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "7",
+      "frost": "10",
+      "poison": "12",
+      "curse": "18"
+    }
+  },
+  "Lord's Blade Gloves": {
+    "name": "Lord's Blade Gloves",
+    "poise": "10.8",
+    "durability": "38",
+    "weight": "4.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "3.9",
+        "slash": "4.2",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "4.2"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "14",
+      "poison": "13",
+      "curse": "10"
+    }
+  },
+  "Conjurator Manchettes": {
+    "name": "Conjurator Manchettes",
+    "poise": "3.8",
+    "durability": "23",
+    "weight": "1.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.0",
+        "strike": "1.3",
+        "slash": "1.6",
+        "thrust": "1.5"
+      },
+      "elemental": {
+        "magic": "4.9",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "4.9"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "15",
+      "poison": "21",
+      "curse": "20"
+    }
+  },
+  "Pursuer's Gauntlets": {
+    "name": "Pursuer's Gauntlets",
+    "poise": "14.2",
+    "durability": "50",
+    "weight": "8.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "6.4",
+        "strike": "5.8",
+        "slash": "6.2",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "4.5",
+        "lightning": "5.3",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "20",
+      "poison": "20",
+      "curse": "36"
+    }
+  },
+  "Millwood Knight Gauntlets": {
+    "name": "Millwood Knight Gauntlets",
+    "poise": "14.0",
+    "durability": "45",
+    "weight": "7.9",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "6.3",
+        "strike": "5.7",
+        "slash": "6.0",
+        "thrust": "5.8"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "23",
+      "poison": "20",
+      "curse": "12"
+    }
+  },
+  "Nameless Knight Gauntlets": {
+    "name": "Nameless Knight Gauntlets",
+    "poise": "10.2",
+    "durability": "35",
+    "weight": "4.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.2",
+        "strike": "3.6",
+        "slash": "3.9",
+        "thrust": "3.8"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "5.3",
+        "lightning": "4.2",
+        "dark": "3.8"
+      }
+    },
+    "resistances": { "bleed": "19", "frost": "9", "poison": "10", "curse": "6" }
+  },
+  "Dragonslayer Gauntlets": {
+    "name": "Dragonslayer Gauntlets",
+    "poise": "13.0",
+    "durability": "40",
+    "weight": "7.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "5.8",
+        "strike": "5.3",
+        "slash": "5.5",
+        "thrust": "5.4"
+      },
+      "elemental": {
+        "magic": "4.5",
+        "fire": "7.5",
+        "lightning": "7.5",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "14",
+      "poison": "13",
+      "curse": "12"
+    }
+  },
+  "Brigand Gauntlets": {
+    "name": "Brigand Gauntlets",
+    "poise": "4.2",
+    "durability": "28",
+    "weight": "2.1",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "2.2",
+        "strike": "1.6",
+        "slash": "2.0",
+        "thrust": "1.8"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.8",
+        "lightning": "4.2",
+        "dark": "3.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "19",
+      "poison": "20",
+      "curse": "14"
+    }
+  },
+  "Footman's Bracelet": {
+    "name": "Footman's Bracelet",
+    "poise": "9.9",
+    "durability": "19",
+    "weight": "3.9",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.9",
+        "strike": "3.3",
+        "slash": "3.6",
+        "thrust": "3.5"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "3.0",
+        "lightning": "3.8",
+        "dark": "5.3"
+      }
+    },
+    "resistances": { "bleed": "7", "frost": "9", "poison": "6", "curse": "9" }
+  },
+  "Slave Knight Gauntlets": {
+    "name": "Slave Knight Gauntlets",
+    "poise": "9.1",
+    "durability": "35",
+    "weight": "3.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "3.1",
+        "strike": "2.5",
+        "slash": "2.9",
+        "thrust": "2.7"
+      },
+      "elemental": {
+        "magic": "3.0",
+        "fire": "4.2",
+        "lightning": "3.0",
+        "dark": "3.8"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "12",
+      "poison": "11",
+      "curse": "7"
+    }
+  },
+  "Xanthous Gloves": {
+    "name": "Xanthous Gloves",
+    "poise": "4.5",
+    "durability": "26",
+    "weight": "2.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.8",
+        "slash": "2.1",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "3.0",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "22",
+      "poison": "22",
+      "curse": "18"
+    }
+  },
+  "Sunless Gauntlets": {
+    "name": "Sunless Gauntlets",
+    "poise": "4.5",
+    "durability": "37",
+    "weight": "2.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "2.4",
+        "strike": "1.8",
+        "slash": "2.1",
+        "thrust": "2.0"
+      },
+      "elemental": {
+        "magic": "5.3",
+        "fire": "4.2",
+        "lightning": "3.8",
+        "dark": "4.9"
+      }
+    },
+    "resistances": { "bleed": "13", "frost": "9", "poison": "7", "curse": "7" }
+  },
+  "Eastern Gauntlets": {
+    "name": "Eastern Gauntlets",
+    "poise": "11.3",
+    "durability": "36",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.2",
+        "slash": "4.5",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "3.8",
+        "fire": "4.8",
+        "lightning": "3.8",
+        "dark": "3.8"
+      }
+    },
+    "resistances": { "bleed": "25", "frost": "11", "poison": "9", "curse": "7" }
+  },
+  "Courtier's Gloves": {
+    "name": "Courtier's Gloves",
+    "poise": "6.0",
+    "durability": "25",
+    "weight": "3.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "3.0",
+        "strike": "2.4",
+        "slash": "2.7",
+        "thrust": "2.5"
+      },
+      "elemental": {
+        "magic": "6.0",
+        "fire": "3.8",
+        "lightning": "3.8",
+        "dark": "6.0"
+      }
+    },
+    "resistances": {
+      "bleed": "10",
+      "frost": "16",
+      "poison": "18",
+      "curse": "13"
+    }
+  },
+  "Alonne's Gauntlets": {
+    "name": "Alonne's Gauntlets",
+    "poise": "11.3",
+    "durability": "36",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.8",
+        "strike": "4.2",
+        "slash": "4.5",
+        "thrust": "4.4"
+      },
+      "elemental": {
+        "magic": "4.2",
+        "fire": "4.8",
+        "lightning": "4.2",
+        "dark": "5.3"
+      }
+    },
+    "resistances": { "bleed": "25", "frost": "11", "poison": "9", "curse": "7" }
+  },
+  "Moonlight Gloves": {
+    "name": "Moonlight Gloves",
+    "poise": "2.2",
+    "durability": "22",
+    "weight": "1.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "1.3",
+        "strike": "0.7",
+        "slash": "1.1",
+        "thrust": "0.9"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "5.3",
+        "lightning": "5.3",
+        "dark": "5.3"
+      }
+    },
+    "resistances": {
+      "bleed": "11",
+      "frost": "12",
+      "poison": "14",
+      "curse": "24"
+    }
+  }
+}

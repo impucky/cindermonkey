@@ -1,0 +1,3539 @@
+{
+  "Robe of Prayer": {
+    "name": "Robe of Prayer",
+    "poise": "4.0",
+    "durability": "22",
+    "weight": "3.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "16.5",
+        "lightning": "16.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "13",
+      "frost": "24",
+      "poison": "61",
+      "curse": "89"
+    }
+  },
+  "Saint's Dress": {
+    "name": "Saint's Dress",
+    "poise": "2.0",
+    "durability": "15",
+    "weight": "2.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "16.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "31",
+      "poison": "24",
+      "curse": "31"
+    }
+  },
+  "Archdeacon Holy Garb": {
+    "name": "Archdeacon Holy Garb",
+    "poise": "4.0",
+    "durability": "23",
+    "weight": "3.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "18",
+      "frost": "37",
+      "poison": "39",
+      "curse": "103"
+    }
+  },
+  "Serpentine Robe": {
+    "name": "Serpentine Robe",
+    "poise": "8.0",
+    "durability": "45",
+    "weight": "4.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "3.5",
+        "slash": "4.5",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "17.5",
+        "lightning": "20.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "31",
+      "poison": "27",
+      "curse": "31"
+    }
+  },
+  "Black Hand Armor": {
+    "name": "Black Hand Armor",
+    "poise": "10.0",
+    "durability": "28",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.5",
+        "strike": "4.5",
+        "slash": "5.5",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "51",
+      "poison": "67",
+      "curse": "58"
+    }
+  },
+  "Ordained Dress": {
+    "name": "Ordained Dress",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "3.6",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "48",
+      "poison": "53",
+      "curse": "69"
+    }
+  },
+  "Burial Knight Armor": {
+    "name": "Burial Knight Armor",
+    "poise": "27.2",
+    "durability": "36",
+    "weight": "11.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.0",
+        "slash": "13.0",
+        "thrust": "12.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "50",
+      "frost": "38",
+      "poison": "36",
+      "curse": "24"
+    }
+  },
+  "Drang Armor": {
+    "name": "Drang Armor",
+    "poise": "8.0",
+    "durability": "25",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "3.5",
+        "slash": "4.5",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.5",
+        "lightning": "17.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "42",
+      "frost": "66",
+      "poison": "62",
+      "curse": "45"
+    }
+  },
+  "Antiquated Plain Garb": {
+    "name": "Antiquated Plain Garb",
+    "poise": "1.5",
+    "durability": "21",
+    "weight": "2.4",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "25.0",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "25",
+      "poison": "47",
+      "curse": "60"
+    }
+  },
+  "Deserter Armor": {
+    "name": "Deserter Armor",
+    "poise": "12.0",
+    "durability": "35",
+    "weight": "6.0",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.0",
+        "slash": "7.0",
+        "thrust": "6.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "50",
+      "frost": "36",
+      "poison": "33",
+      "curse": "22"
+    }
+  },
+  "Black Iron Armor": {
+    "name": "Black Iron Armor",
+    "poise": "36.8",
+    "durability": "46",
+    "weight": "20.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "20.0",
+        "lightning": "12.5",
+        "dark": "15.0"
+      }
+    },
+    "resistances": {
+      "bleed": "65",
+      "frost": "57",
+      "poison": "51",
+      "curse": "35"
+    }
+  },
+  "Deacon Robe": {
+    "name": "Deacon Robe",
+    "poise": "2.0",
+    "durability": "22",
+    "weight": "2.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "33",
+      "poison": "40",
+      "curse": "99"
+    }
+  },
+  "Steel Armor": {
+    "name": "Steel Armor",
+    "poise": "36.8",
+    "durability": "46",
+    "weight": "20.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "15.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "74",
+      "frost": "57",
+      "poison": "57",
+      "curse": "33"
+    }
+  },
+  "Mad Warrior Armor": {
+    "name": "Mad Warrior Armor",
+    "poise": "31.2",
+    "durability": "41",
+    "weight": "15.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "17.0",
+        "strike": "15.0",
+        "slash": "16.0",
+        "thrust": "15.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "78",
+      "frost": "46",
+      "poison": "43",
+      "curse": "33"
+    }
+  },
+  "Jailer Robe": {
+    "name": "Jailer Robe",
+    "poise": "12.8",
+    "durability": "23",
+    "weight": "6.4",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "16.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "32",
+      "poison": "37",
+      "curse": "107"
+    }
+  },
+  "Brass Armor": {
+    "name": "Brass Armor",
+    "poise": "29.6",
+    "durability": "37",
+    "weight": "13.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "15.5",
+        "strike": "13.5",
+        "slash": "14.5",
+        "thrust": "14.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "60",
+      "frost": "36",
+      "poison": "33",
+      "curse": "27"
+    }
+  },
+  "Black Dragon Armor": {
+    "name": "Black Dragon Armor",
+    "poise": "30.4",
+    "durability": "41",
+    "weight": "14.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "16.5",
+        "strike": "14.5",
+        "slash": "15.5",
+        "thrust": "15.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "78",
+      "frost": "46",
+      "poison": "43",
+      "curse": "33"
+    }
+  },
+  "Embraced Armor of Favor": {
+    "name": "Embraced Armor of Favor",
+    "poise": "28.8",
+    "durability": "40",
+    "weight": "12.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "15.0",
+        "strike": "13.0",
+        "slash": "14.0",
+        "thrust": "13.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "63",
+      "frost": "51",
+      "poison": "46",
+      "curse": "35"
+    }
+  },
+  "Black Witch Garb": {
+    "name": "Black Witch Garb",
+    "poise": "8.0",
+    "durability": "22",
+    "weight": "3.7",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "20.0",
+        "lightning": "20.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "15",
+      "frost": "28",
+      "poison": "39",
+      "curse": "89"
+    }
+  },
+  "Black Cleric Robe": {
+    "name": "Black Cleric Robe",
+    "poise": "10.0",
+    "durability": "26",
+    "weight": "4.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.0",
+        "slash": "5.0",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "12.5",
+        "lightning": "17.5",
+        "dark": "25.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "49",
+      "poison": "61",
+      "curse": "68"
+    }
+  },
+  "Old Sorcerer Coat": {
+    "name": "Old Sorcerer Coat",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "35",
+      "poison": "40",
+      "curse": "70"
+    }
+  },
+  "Pale Shade Robe": {
+    "name": "Pale Shade Robe",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "16.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "35",
+      "frost": "32",
+      "poison": "60",
+      "curse": "70"
+    }
+  },
+  "Scholar's Robe": {
+    "name": "Scholar's Robe",
+    "poise": "8.0",
+    "durability": "23",
+    "weight": "4.0",
+    "price": "350",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "3.5",
+        "slash": "4.5",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "17.5",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "39",
+      "poison": "43",
+      "curse": "250"
+    }
+  },
+  "Maiden Robe": {
+    "name": "Maiden Robe",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "19",
+      "frost": "30",
+      "poison": "38",
+      "curse": "75"
+    }
+  },
+  "Black Knight Armor": {
+    "name": "Black Knight Armor",
+    "poise": "33.6",
+    "durability": "41",
+    "weight": "17.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "18.5",
+        "strike": "16.5",
+        "slash": "17.5",
+        "thrust": "17.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "58",
+      "frost": "39",
+      "poison": "42",
+      "curse": "39"
+    }
+  },
+  "Fire Keeper Robe": {
+    "name": "Fire Keeper Robe",
+    "poise": "4.0",
+    "durability": "25",
+    "weight": "2.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "49",
+      "poison": "54",
+      "curse": "42"
+    }
+  },
+  "Sunset Armor": {
+    "name": "Sunset Armor",
+    "poise": "28.0",
+    "durability": "40",
+    "weight": "12.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "14.5",
+        "strike": "12.5",
+        "slash": "13.5",
+        "thrust": "13.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "63",
+      "frost": "39",
+      "poison": "58",
+      "curse": "42"
+    }
+  },
+  "Armor of the Sun": {
+    "name": "Armor of the Sun",
+    "poise": "25.6",
+    "durability": "35",
+    "weight": "9.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.0",
+        "slash": "11.0",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "31",
+      "poison": "28",
+      "curse": "26"
+    }
+  },
+  "Gundyr's Armor": {
+    "name": "Gundyr's Armor",
+    "poise": "37.2",
+    "durability": "47",
+    "weight": "21.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "86",
+      "frost": "62",
+      "poison": "62",
+      "curse": "62"
+    }
+  },
+  "Varangian Armor": {
+    "name": "Varangian Armor",
+    "poise": "24.8",
+    "durability": "35",
+    "weight": "8.8",
+    "price": "400",
+    "defenses": {
+      "physical": {
+        "base": "11.0",
+        "strike": "9.0",
+        "slash": "10.0",
+        "thrust": "9.5"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "16.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "30",
+      "frost": "21",
+      "poison": "20",
+      "curse": "19"
+    }
+  },
+  "Dragonrider Armor": {
+    "name": "Dragonrider Armor",
+    "poise": "37.2",
+    "durability": "45",
+    "weight": "21.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "69",
+      "poison": "61",
+      "curse": "37"
+    }
+  },
+  "Syan Knight Armor": {
+    "name": "Syan Knight Armor",
+    "poise": "33.6",
+    "durability": "42",
+    "weight": "17.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "18.5",
+        "strike": "16.5",
+        "slash": "17.5",
+        "thrust": "17.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "65",
+      "frost": "50",
+      "poison": "55",
+      "curse": "39"
+    }
+  },
+  "Hallowed Knight Armor": {
+    "name": "Hallowed Knight Armor",
+    "poise": "25.6",
+    "durability": "36",
+    "weight": "9.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.0",
+        "slash": "11.0",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "39",
+      "poison": "28",
+      "curse": "22"
+    }
+  },
+  "Drakeblood Armor": {
+    "name": "Drakeblood Armor",
+    "poise": "31.2",
+    "durability": "41",
+    "weight": "15.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "17.0",
+        "strike": "15.0",
+        "slash": "16.0",
+        "thrust": "15.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "78",
+      "frost": "46",
+      "poison": "43",
+      "curse": "33"
+    }
+  },
+  "Mirror Knight Armor": {
+    "name": "Mirror Knight Armor",
+    "poise": "37.2",
+    "durability": "45",
+    "weight": "21.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "25.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "69",
+      "poison": "61",
+      "curse": "37"
+    }
+  },
+  "Firelink Armor": {
+    "name": "Firelink Armor",
+    "poise": "30.0",
+    "durability": "35",
+    "weight": "14.0",
+    "price": "2,000",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.0",
+        "slash": "15.0",
+        "thrust": "14.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "43",
+      "poison": "30",
+      "curse": "19"
+    }
+  },
+  "Drakekeeper Armor": {
+    "name": "Drakekeeper Armor",
+    "poise": "36.8",
+    "durability": "47",
+    "weight": "20.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "20.0",
+        "lightning": "20.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "66",
+      "frost": "62",
+      "poison": "62",
+      "curse": "47"
+    }
+  },
+  "Sorcerer Robe": {
+    "name": "Sorcerer Robe",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "25",
+      "frost": "33",
+      "poison": "40",
+      "curse": "71"
+    }
+  },
+  "Fire Witch Armor": {
+    "name": "Fire Witch Armor",
+    "poise": "25.2",
+    "durability": "37",
+    "weight": "9.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "11.5",
+        "strike": "9.5",
+        "slash": "10.5",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "36",
+      "poison": "34",
+      "curse": "27"
+    }
+  },
+  "Desert Pyromancer Garb": {
+    "name": "Desert Pyromancer Garb",
+    "poise": "4.0",
+    "durability": "20",
+    "weight": "2.8",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "16.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "16",
+      "frost": "25",
+      "poison": "64",
+      "curse": "66"
+    }
+  },
+  "Hard Leather Armor": {
+    "name": "Hard Leather Armor",
+    "poise": "13.2",
+    "durability": "28",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "47",
+      "frost": "59",
+      "poison": "64",
+      "curse": "52"
+    }
+  },
+  "Executioner Armor": {
+    "name": "Executioner Armor",
+    "poise": "35.6",
+    "durability": "46",
+    "weight": "19.6",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "20.0",
+        "strike": "18.0",
+        "slash": "19.0",
+        "thrust": "18.5"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "65",
+      "frost": "61",
+      "poison": "58",
+      "curse": "42"
+    }
+  },
+  "Yhorm's Armor": {
+    "name": "Yhorm's Armor",
+    "poise": "30.4",
+    "durability": "42",
+    "weight": "14.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "16.5",
+        "strike": "14.5",
+        "slash": "15.5",
+        "thrust": "15.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "14",
+      "poison": "19",
+      "curse": "14"
+    }
+  },
+  "Giant Armor": {
+    "name": "Giant Armor",
+    "poise": "38.4",
+    "durability": "50",
+    "weight": "22.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "21.5",
+        "strike": "19.5",
+        "slash": "20.5",
+        "thrust": "20.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "20.0",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "69",
+      "frost": "69",
+      "poison": "69",
+      "curse": "62"
+    }
+  },
+  "Armor of the Glorious": {
+    "name": "Armor of the Glorious",
+    "poise": "27.2",
+    "durability": "36",
+    "weight": "11.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.0",
+        "slash": "13.0",
+        "thrust": "12.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "17.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "38",
+      "poison": "36",
+      "curse": "24"
+    }
+  },
+  "Follower Armor": {
+    "name": "Follower Armor",
+    "poise": "16.0",
+    "durability": "26",
+    "weight": "8.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "10.0",
+        "strike": "8.0",
+        "slash": "9.0",
+        "thrust": "8.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "75",
+      "poison": "59",
+      "curse": "48"
+    }
+  },
+  "Winged Knight Armor": {
+    "name": "Winged Knight Armor",
+    "poise": "37.2",
+    "durability": "48",
+    "weight": "21.2",
+    "price": "350",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "73",
+      "frost": "68",
+      "poison": "60",
+      "curse": "45"
+    }
+  },
+  "Silver Knight Armor": {
+    "name": "Silver Knight Armor",
+    "poise": "33.6",
+    "durability": "42",
+    "weight": "17.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "18.5",
+        "strike": "16.5",
+        "slash": "17.5",
+        "thrust": "17.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "14",
+        "dark": "14"
+      }
+    },
+    "resistances": {
+      "bleed": "65",
+      "frost": "50",
+      "poison": "55",
+      "curse": "39"
+    }
+  },
+  "Lorian's Armor": {
+    "name": "Lorian's Armor",
+    "poise": "32.0",
+    "durability": "42",
+    "weight": "16.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "17.5",
+        "strike": "15.5",
+        "slash": "16.5",
+        "thrust": "16.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "12.5",
+        "lightning": "12.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "61",
+      "poison": "41",
+      "curse": "50"
+    }
+  },
+  "Dark Armor": {
+    "name": "Dark Armor",
+    "poise": "26.0",
+    "durability": "35",
+    "weight": "10.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.5",
+        "strike": "10.5",
+        "slash": "11.5",
+        "thrust": "11.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.5",
+        "lightning": "7.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "33",
+      "poison": "30",
+      "curse": "140"
+    }
+  },
+  "Wolf Knight Armor": {
+    "name": "Wolf Knight Armor",
+    "poise": "28.0",
+    "durability": "36",
+    "weight": "12.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "14.5",
+        "strike": "12.5",
+        "slash": "13.5",
+        "thrust": "13.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "33",
+      "poison": "32",
+      "curse": "33"
+    }
+  },
+  "Fallen Knight Armor": {
+    "name": "Fallen Knight Armor",
+    "poise": "25.6",
+    "durability": "36",
+    "weight": "9.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.0",
+        "slash": "11.0",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "39",
+      "poison": "28",
+      "curse": "22"
+    }
+  },
+  "Dancer's Armor": {
+    "name": "Dancer's Armor",
+    "poise": "14.0",
+    "durability": "28",
+    "weight": "7.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "9.0",
+        "strike": "7.0",
+        "slash": "8.0",
+        "thrust": "7.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "10.0",
+        "lightning": "12.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "55",
+      "poison": "33",
+      "curse": "22"
+    }
+  },
+  "Evangelist Robe": {
+    "name": "Evangelist Robe",
+    "poise": "14.0",
+    "durability": "38",
+    "weight": "7.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "9.0",
+        "strike": "7.0",
+        "slash": "8.0",
+        "thrust": "7.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "16.5",
+        "lightning": "17.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "49",
+      "frost": "38",
+      "poison": "42",
+      "curse": "35"
+    }
+  },
+  "Harald Legion Armor": {
+    "name": "Harald Legion Armor",
+    "poise": "34.8",
+    "durability": "47",
+    "weight": "18.8",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "19.5",
+        "strike": "17.5",
+        "slash": "18.5",
+        "thrust": "18.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "68",
+      "frost": "61",
+      "poison": "62",
+      "curse": "80"
+    }
+  },
+  "Pyromancer Garb": {
+    "name": "Pyromancer Garb",
+    "poise": "8.0",
+    "durability": "23",
+    "weight": "3.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "43",
+      "poison": "50",
+      "curse": "74"
+    }
+  },
+  "Master's Attire": {
+    "name": "Master's Attire",
+    "poise": "2.0",
+    "durability": "12",
+    "weight": "2.0",
+    "price": "12",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "7.5",
+        "fire": "7.5",
+        "lightning": "7.5",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "22",
+      "poison": "62",
+      "curse": "74"
+    }
+  },
+  "Vileblood Armor": {
+    "name": "Vileblood Armor",
+    "poise": "12.0",
+    "durability": "27",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "47",
+      "poison": "60",
+      "curse": "71"
+    }
+  },
+  "Rampart Golem Armor": {
+    "name": "Rampart Golem Armor",
+    "poise": "32.8",
+    "durability": "40",
+    "weight": "16.8",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "18.0",
+        "strike": "16.0",
+        "slash": "17.0",
+        "thrust": "16.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "12.5",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "62",
+      "frost": "105",
+      "poison": "60",
+      "curse": "32"
+    }
+  },
+  "Hexer's Robes": {
+    "name": "Hexer's Robes",
+    "poise": "6.0",
+    "durability": "21",
+    "weight": "3.2",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "12.5",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "35",
+      "poison": "35",
+      "curse": "73"
+    }
+  },
+  "Gloom Armor": {
+    "name": "Gloom Armor",
+    "poise": "33.6",
+    "durability": "42",
+    "weight": "17.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "18.5",
+        "strike": "16.5",
+        "slash": "17.5",
+        "thrust": "17.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "65",
+      "frost": "50",
+      "poison": "55",
+      "curse": "39"
+    }
+  },
+  "Penetrator Armor": {
+    "name": "Penetrator Armor",
+    "poise": "36.4",
+    "durability": "45",
+    "weight": "20.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "77",
+      "frost": "54",
+      "poison": "61",
+      "curse": "38"
+    }
+  },
+  "Chain Armor": {
+    "name": "Chain Armor",
+    "poise": "25.2",
+    "durability": "35",
+    "weight": "9.2",
+    "price": "80",
+    "defenses": {
+      "physical": {
+        "base": "11.5",
+        "strike": "9.5",
+        "slash": "10.5",
+        "thrust": "10.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "12.5",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "63",
+      "frost": "33",
+      "poison": "33",
+      "curse": "22"
+    }
+  },
+  "Cornyx's Garb": {
+    "name": "Cornyx's Garb",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "3.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "20.0",
+        "lightning": "16.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "22",
+      "frost": "30",
+      "poison": "40",
+      "curse": "88"
+    }
+  },
+  "Knight Armor": {
+    "name": "Knight Armor",
+    "poise": "27.2",
+    "durability": "36",
+    "weight": "11.2",
+    "price": "150",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.0",
+        "slash": "13.0",
+        "thrust": "12.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "38",
+      "poison": "36",
+      "curse": "24"
+    }
+  },
+  "Paladin Armor": {
+    "name": "Paladin Armor",
+    "poise": "36.0",
+    "durability": "45",
+    "weight": "20.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.0",
+        "strike": "18.0",
+        "slash": "19.0",
+        "thrust": "18.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "20.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "60",
+      "poison": "39",
+      "curse": "37"
+    }
+  },
+  "Ringed Knight Armor": {
+    "name": "Ringed Knight Armor",
+    "poise": "30.4",
+    "durability": "40",
+    "weight": "14.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "16.5",
+        "strike": "14.5",
+        "slash": "15.5",
+        "thrust": "15.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "60",
+      "frost": "40",
+      "poison": "36",
+      "curse": "34"
+    }
+  },
+  "Smelter Demon Armor": {
+    "name": "Smelter Demon Armor",
+    "poise": "30.4",
+    "durability": "42",
+    "weight": "14.1",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "16.5",
+        "strike": "14.5",
+        "slash": "15.5",
+        "thrust": "15.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "28",
+      "frost": "14",
+      "poison": "19",
+      "curse": "14"
+    }
+  },
+  "Cathedral Knight Armor": {
+    "name": "Cathedral Knight Armor",
+    "poise": "36.8",
+    "durability": "47",
+    "weight": "20.8",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "15.0",
+        "lightning": "15.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "66",
+      "frost": "62",
+      "poison": "62",
+      "curse": "47"
+    }
+  },
+  "Undead Legion Armor": {
+    "name": "Undead Legion Armor",
+    "poise": "26.0",
+    "durability": "28",
+    "weight": "10.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "12.5",
+        "strike": "10.5",
+        "slash": "11.5",
+        "thrust": "11.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "39",
+      "frost": "65",
+      "poison": "51",
+      "curse": "42"
+    }
+  },
+  "Alva Armor": {
+    "name": "Alva Armor",
+    "poise": "27.2",
+    "durability": "36",
+    "weight": "11.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "13.5",
+        "strike": "11.5",
+        "slash": "12.5",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "59",
+      "frost": "37",
+      "poison": "35",
+      "curse": "21"
+    }
+  },
+  "Iron Dragonslayer Armor": {
+    "name": "Iron Dragonslayer Armor",
+    "poise": "35.2",
+    "durability": "45",
+    "weight": "20.4",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "15.0",
+        "fire": "20.0",
+        "lightning": "25.0",
+        "dark": "25.0"
+      }
+    },
+    "resistances": {
+      "bleed": "81",
+      "frost": "60",
+      "poison": "54",
+      "curse": "49"
+    }
+  },
+  "Northern Armor": {
+    "name": "Northern Armor",
+    "poise": "24.8",
+    "durability": "37",
+    "weight": "8.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "11.0",
+        "strike": "9.0",
+        "slash": "10.0",
+        "thrust": "9.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "16.5",
+        "lightning": "12.5",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "60",
+      "frost": "74",
+      "poison": "38",
+      "curse": "27"
+    }
+  },
+  "Ancient King's Breastplate": {
+    "name": "Ancient King's Breastplate",
+    "poise": "28.0",
+    "durability": "36",
+    "weight": "12.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "14.5",
+        "strike": "12.5",
+        "slash": "13.5",
+        "thrust": "13.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "25.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "33",
+      "poison": "32",
+      "curse": "33"
+    }
+  },
+  "Smough's Armor": {
+    "name": "Smough's Armor",
+    "poise": "37.6",
+    "durability": "50",
+    "weight": "21.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "69",
+      "frost": "69",
+      "poison": "69",
+      "curse": "62"
+    }
+  },
+  "Vilhelm's Armor": {
+    "name": "Vilhelm's Armor",
+    "poise": "24.8",
+    "durability": "37",
+    "weight": "8.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "11.0",
+        "strike": "9.0",
+        "slash": "10.0",
+        "thrust": "9.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "10.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "44",
+      "frost": "37",
+      "poison": "35",
+      "curse": "71"
+    }
+  },
+  "Exile Armor": {
+    "name": "Exile Armor",
+    "poise": "34.0",
+    "durability": "47",
+    "weight": "18.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "19.0",
+        "strike": "17.0",
+        "slash": "18.0",
+        "thrust": "17.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "97",
+      "frost": "62",
+      "poison": "74",
+      "curse": "50"
+    }
+  },
+  "Cleric Blue Robe": {
+    "name": "Cleric Blue Robe",
+    "poise": "10.0",
+    "durability": "26",
+    "weight": "4.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.0",
+        "slash": "5.0",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "16.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "45",
+      "frost": "49",
+      "poison": "61",
+      "curse": "68"
+    }
+  },
+  "Mirrah Vest": {
+    "name": "Mirrah Vest",
+    "poise": "13.2",
+    "durability": "27",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "14.0",
+        "lightning": "17.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "54",
+      "frost": "54",
+      "poison": "64",
+      "curse": "60"
+    }
+  },
+  "Robe of the Great Lord": {
+    "name": "Robe of the Great Lord",
+    "poise": "32.0",
+    "durability": "42",
+    "weight": "16.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "17.5",
+        "strike": "15.5",
+        "slash": "16.5",
+        "thrust": "16.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "14.0",
+        "lightning": "25.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "64",
+      "poison": "41",
+      "curse": "50"
+    }
+  },
+  "Elite Knight Armor": {
+    "name": "Elite Knight Armor",
+    "poise": "27.2",
+    "durability": "35",
+    "weight": "11.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.0",
+        "slash": "13.0",
+        "thrust": "12.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "33",
+      "poison": "32",
+      "curse": "18"
+    }
+  },
+  "Quicksilver Armor": {
+    "name": "Quicksilver Armor",
+    "poise": "36.0",
+    "durability": "45",
+    "weight": "20.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.0",
+        "strike": "18.0",
+        "slash": "19.0",
+        "thrust": "18.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "60",
+      "poison": "39",
+      "curse": "37"
+    }
+  },
+  "Outrider Knight Armor": {
+    "name": "Outrider Knight Armor",
+    "poise": "26.4",
+    "durability": "38",
+    "weight": "10.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "13.0",
+        "strike": "11.0",
+        "slash": "12.0",
+        "thrust": "11.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "50",
+      "frost": "111",
+      "poison": "42",
+      "curse": "22"
+    }
+  },
+  "Grave Warden Robe": {
+    "name": "Grave Warden Robe",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.2",
+    "price": "70",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "16.5",
+        "dark": "7.5"
+      }
+    },
+    "resistances": {
+      "bleed": "59",
+      "frost": "13",
+      "poison": "59",
+      "curse": "51"
+    }
+  },
+  "Morne's Armor": {
+    "name": "Morne's Armor",
+    "poise": "36.0",
+    "durability": "45",
+    "weight": "20.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.0",
+        "strike": "18.0",
+        "slash": "19.0",
+        "thrust": "18.5"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "60",
+      "poison": "39",
+      "curse": "37"
+    }
+  },
+  "Black Leather Armor": {
+    "name": "Black Leather Armor",
+    "poise": "22.0",
+    "durability": "26",
+    "weight": "6.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.0",
+        "slash": "7.0",
+        "thrust": "6.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "12.0"
+      }
+    },
+    "resistances": {
+      "bleed": "46",
+      "frost": "55",
+      "poison": "65",
+      "curse": "46"
+    }
+  },
+  "Binded Cross": {
+    "name": "Binded Cross",
+    "poise": "10.0",
+    "durability": "23",
+    "weight": "4.4",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.0",
+        "slash": "5.0",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "12.5",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "43",
+      "poison": "68",
+      "curse": "60"
+    }
+  },
+  "Shadow Garb": {
+    "name": "Shadow Garb",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "10.0",
+        "lightning": "12.5",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "27",
+      "frost": "38",
+      "poison": "40",
+      "curse": "34"
+    }
+  },
+  "Shira's Armor": {
+    "name": "Shira's Armor",
+    "poise": "11.2",
+    "durability": "27",
+    "weight": "5.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "5.0",
+        "slash": "6.0",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "38",
+      "frost": "61",
+      "poison": "62",
+      "curse": "62"
+    }
+  },
+  "Faraam Armor": {
+    "name": "Faraam Armor",
+    "poise": "26.8",
+    "durability": "40",
+    "weight": "10.8",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "13.5",
+        "strike": "11.5",
+        "slash": "12.5",
+        "thrust": "12.0"
+      },
+      "elemental": {
+        "magic": "16.0",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "16.0"
+      }
+    },
+    "resistances": {
+      "bleed": "59",
+      "frost": "60",
+      "poison": "40",
+      "curse": "27"
+    }
+  },
+  "Pontiff Knight Armor": {
+    "name": "Pontiff Knight Armor",
+    "poise": "16.0",
+    "durability": "28",
+    "weight": "7.6",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "9.5",
+        "strike": "7.5",
+        "slash": "8.5",
+        "thrust": "8.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "10.0",
+        "lightning": "16.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "81",
+      "poison": "36",
+      "curse": "29"
+    }
+  },
+  "Brushwood Armor": {
+    "name": "Brushwood Armor",
+    "poise": "37.2",
+    "durability": "47",
+    "weight": "21.2",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "86",
+      "frost": "62",
+      "poison": "62",
+      "curse": "62"
+    }
+  },
+  "Imperious Armor": {
+    "name": "Imperious Armor",
+    "poise": "31.2",
+    "durability": "41",
+    "weight": "15.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "17.0",
+        "strike": "15.0",
+        "slash": "16.0",
+        "thrust": "15.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "78",
+      "frost": "46",
+      "poison": "43",
+      "curse": "33"
+    }
+  },
+  "Assassin Armor": {
+    "name": "Assassin Armor",
+    "poise": "8.0",
+    "durability": "27",
+    "weight": "4.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "3.5",
+        "slash": "4.5",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "47",
+      "poison": "62",
+      "curse": "52"
+    }
+  },
+  "Havel's Armor": {
+    "name": "Havel's Armor",
+    "poise": "39.2",
+    "durability": "50",
+    "weight": "23.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "22.0",
+        "strike": "20.0",
+        "slash": "21.0",
+        "thrust": "20.5"
+      },
+      "elemental": {
+        "magic": "25.0",
+        "fire": "20.0",
+        "lightning": "10.0",
+        "dark": "15.0"
+      }
+    },
+    "resistances": {
+      "bleed": "72",
+      "frost": "69",
+      "poison": "69",
+      "curse": "61"
+    }
+  },
+  "Worker Garb": {
+    "name": "Worker Garb",
+    "poise": "10.0",
+    "durability": "23",
+    "weight": "4.4",
+    "price": "30",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.0",
+        "slash": "5.0",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "10.0",
+        "lightning": "10.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "34",
+      "frost": "43",
+      "poison": "68",
+      "curse": "60"
+    }
+  },
+  "Leather Armor": {
+    "name": "Leather Armor",
+    "poise": "11.2",
+    "durability": "25",
+    "weight": "5.2",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "7.0",
+        "strike": "5.0",
+        "slash": "6.0",
+        "thrust": "5.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "36",
+      "frost": "58",
+      "poison": "58",
+      "curse": "43"
+    }
+  },
+  "Painting Guardian Gown": {
+    "name": "Painting Guardian Gown",
+    "poise": "8.0",
+    "durability": "22",
+    "weight": "4.0",
+    "price": "250",
+    "defenses": {
+      "physical": {
+        "base": "5.5",
+        "strike": "3.5",
+        "slash": "4.5",
+        "thrust": "4.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "12.5",
+        "lightning": "10.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "59",
+      "frost": "36",
+      "poison": "71",
+      "curse": "60"
+    }
+  },
+  "Grotto Robe": {
+    "name": "Grotto Robe",
+    "poise": "10.0",
+    "durability": "31",
+    "weight": "4.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "6.0",
+        "strike": "4.0",
+        "slash": "5.0",
+        "thrust": "4.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "14",
+      "frost": "41",
+      "poison": "39",
+      "curse": "41"
+    }
+  },
+  "Lapp's Armor": {
+    "name": "Lapp's Armor",
+    "poise": "36.4",
+    "durability": "45",
+    "weight": "20.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "77",
+      "frost": "54",
+      "poison": "61",
+      "curse": "38"
+    }
+  },
+  "Ivory King Armor": {
+    "name": "Ivory King Armor",
+    "poise": "30.4",
+    "durability": "40",
+    "weight": "14.4",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "16.5",
+        "strike": "14.5",
+        "slash": "15.5",
+        "thrust": "15.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "60",
+      "frost": "40",
+      "poison": "36",
+      "curse": "34"
+    }
+  },
+  "Black Dress": {
+    "name": "Black Dress",
+    "poise": "12.0",
+    "durability": "27",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "40",
+      "frost": "47",
+      "poison": "60",
+      "curse": "101"
+    }
+  },
+  "Catarina Armor": {
+    "name": "Catarina Armor",
+    "poise": "36.8",
+    "durability": "46",
+    "weight": "20.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "20.5",
+        "strike": "18.5",
+        "slash": "19.5",
+        "thrust": "19.0"
+      },
+      "elemental": {
+        "magic": "15.0",
+        "fire": "15.0",
+        "lightning": "17.5",
+        "dark": "15.0"
+      }
+    },
+    "resistances": {
+      "bleed": "74",
+      "frost": "57",
+      "poison": "57",
+      "curse": "33"
+    }
+  },
+  "Venerable Sage's Robe": {
+    "name": "Venerable Sage's Robe",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "25.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "32",
+      "poison": "46",
+      "curse": "74"
+    }
+  },
+  "Antiquated Dress": {
+    "name": "Antiquated Dress",
+    "poise": "4.0",
+    "durability": "21",
+    "weight": "2.4",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "25.0",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "21",
+      "frost": "27",
+      "poison": "38",
+      "curse": "86"
+    }
+  },
+  "Bone Ash Armor": {
+    "name": "Bone Ash Armor",
+    "poise": "24.8",
+    "durability": "37",
+    "weight": "8.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "11.0",
+        "strike": "9.0",
+        "slash": "10.0",
+        "thrust": "9.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "44",
+      "frost": "37",
+      "poison": "35",
+      "curse": "44"
+    }
+  },
+  "Herald Armor": {
+    "name": "Herald Armor",
+    "poise": "25.6",
+    "durability": "35",
+    "weight": "9.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.0",
+        "slash": "11.0",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "52",
+      "frost": "36",
+      "poison": "30",
+      "curse": "19"
+    }
+  },
+  "Dragonscale Armor": {
+    "name": "Dragonscale Armor",
+    "poise": "16.0",
+    "durability": "38",
+    "weight": "8.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "10.0",
+        "strike": "8.0",
+        "slash": "9.0",
+        "thrust": "8.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "20.0",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "62",
+      "frost": "46",
+      "poison": "41",
+      "curse": "28"
+    }
+  },
+  "Leonhard's Garb": {
+    "name": "Leonhard's Garb",
+    "poise": "4.5",
+    "durability": "27",
+    "weight": "6.0",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.0",
+        "slash": "7.0",
+        "thrust": "6.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "41",
+      "frost": "62",
+      "poison": "55",
+      "curse": "55"
+    }
+  },
+  "Sellsword Armor": {
+    "name": "Sellsword Armor",
+    "poise": "12.0",
+    "durability": "37",
+    "weight": "6.4",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "8.5",
+        "strike": "6.5",
+        "slash": "7.5",
+        "thrust": "7.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "10.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "59",
+      "frost": "35",
+      "poison": "39",
+      "curse": "26"
+    }
+  },
+  "Mirrah Chain Mail": {
+    "name": "Mirrah Chain Mail",
+    "poise": "25.6",
+    "durability": "37",
+    "weight": "9.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "12.0",
+        "strike": "10.0",
+        "slash": "11.0",
+        "thrust": "10.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "12.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "51",
+      "frost": "37",
+      "poison": "33",
+      "curse": "26"
+    }
+  },
+  "Heide Knight Chainmail": {
+    "name": "Heide Knight Chainmail",
+    "poise": "33.6",
+    "durability": "41",
+    "weight": "17.6",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "18.5",
+        "strike": "16.5",
+        "slash": "17.5",
+        "thrust": "17.0"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "20.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "58",
+      "frost": "39",
+      "poison": "42",
+      "curse": "39"
+    }
+  },
+  "Lothric Knight Armor": {
+    "name": "Lothric Knight Armor",
+    "poise": "35.2",
+    "durability": "43",
+    "weight": "19.2",
+    "price": "300",
+    "defenses": {
+      "physical": {
+        "base": "19.5",
+        "strike": "17.5",
+        "slash": "18.5",
+        "thrust": "18.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "20.0",
+        "lightning": "10.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "75",
+      "frost": "58",
+      "poison": "43",
+      "curse": "34"
+    }
+  },
+  "Karla's Coat": {
+    "name": "Karla's Coat",
+    "poise": "8.0",
+    "durability": "22",
+    "weight": "3.7",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "20.0",
+        "lightning": "20.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "20",
+      "frost": "31",
+      "poison": "35",
+      "curse": "53"
+    }
+  },
+  "Ruin Armor": {
+    "name": "Ruin Armor",
+    "poise": "32.8",
+    "durability": "40",
+    "weight": "16.8",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "18.0",
+        "strike": "16.0",
+        "slash": "17.0",
+        "thrust": "16.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "14.0",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "62",
+      "frost": "35",
+      "poison": "60",
+      "curse": "32"
+    }
+  },
+  "Pursuer's Armor": {
+    "name": "Pursuer's Armor",
+    "poise": "38.0",
+    "durability": "50",
+    "weight": "22.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "21.5",
+        "strike": "19.5",
+        "slash": "20.5",
+        "thrust": "20.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "15.0",
+        "lightning": "17.5",
+        "dark": "25.0"
+      }
+    },
+    "resistances": {
+      "bleed": "69",
+      "frost": "69",
+      "poison": "69",
+      "curse": "124"
+    }
+  },
+  "Lord's Blade Robe": {
+    "name": "Lord's Blade Robe",
+    "poise": "28.8",
+    "durability": "40",
+    "weight": "12.8",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "15.0",
+        "strike": "130",
+        "slash": "14.0",
+        "thrust": "13.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "14.0"
+      }
+    },
+    "resistances": {
+      "bleed": "63",
+      "frost": "51",
+      "poison": "46",
+      "curse": "35"
+    }
+  },
+  "Court Sorcerer Robe": {
+    "name": "Court Sorcerer Robe",
+    "poise": "6.0",
+    "durability": "23",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "20.0",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "29",
+      "frost": "32",
+      "poison": "46",
+      "curse": "74"
+    }
+  },
+  "Nameless Knight Armor": {
+    "name": "Nameless Knight Armor",
+    "poise": "27.2",
+    "durability": "36",
+    "weight": "11.2",
+    "price": "17.5",
+    "defenses": {
+      "physical": {
+        "base": "14.0",
+        "strike": "12.0",
+        "slash": "13.0",
+        "thrust": "12.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "17.5",
+        "lightning": "14.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "61",
+      "frost": "35",
+      "poison": "38",
+      "curse": "21"
+    }
+  },
+  "Dragonslayer Armor": {
+    "name": "Dragonslayer Armor",
+    "poise": "27.0",
+    "durability": "42",
+    "weight": "19.2",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "19.5",
+        "strike": "17.5",
+        "slash": "18.5",
+        "thrust": "18.0"
+      },
+      "elemental": {
+        "magic": "15.0",
+        "fire": "25.0",
+        "lightning": "25.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "64",
+      "frost": "43",
+      "poison": "40",
+      "curse": "36"
+    }
+  },
+  "Conjurator Robe": {
+    "name": "Conjurator Robe",
+    "poise": "10.0",
+    "durability": "23",
+    "weight": "4.8",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "6.5",
+        "strike": "4.5",
+        "slash": "5.5",
+        "thrust": "5.0"
+      },
+      "elemental": {
+        "magic": "16.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "31",
+      "frost": "44",
+      "poison": "43",
+      "curse": "61"
+    }
+  },
+  "Footman's Overcoat": {
+    "name": "Footman's Overcoat",
+    "poise": "26.4",
+    "durability": "35",
+    "weight": "10.4",
+    "price": "200",
+    "defenses": {
+      "physical": {
+        "base": "13.0",
+        "strike": "11.0",
+        "slash": "12.0",
+        "thrust": "11.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "10.0",
+        "lightning": "12.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "24",
+      "frost": "22",
+      "poison": "21",
+      "curse": "22"
+    }
+  },
+  "Sunless Armor": {
+    "name": "Sunless Armor",
+    "poise": "12.0",
+    "durability": "36",
+    "weight": "6.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.0",
+        "slash": "7.0",
+        "thrust": "6.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "14.0",
+        "lightning": "12.5",
+        "dark": "16.5"
+      }
+    },
+    "resistances": {
+      "bleed": "43",
+      "frost": "33",
+      "poison": "25",
+      "curse": "37"
+    }
+  },
+  "Moonlight Robe": {
+    "name": "Moonlight Robe",
+    "poise": "6.0",
+    "durability": "22",
+    "weight": "3.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "4.5",
+        "strike": "2.5",
+        "slash": "3.5",
+        "thrust": "3.0"
+      },
+      "elemental": {
+        "magic": "25.0",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "32",
+      "frost": "35",
+      "poison": "40",
+      "curse": "70"
+    }
+  },
+  "Millwood Knight Armor": {
+    "name": "Millwood Knight Armor",
+    "poise": "37.2",
+    "durability": "45",
+    "weight": "21.2",
+    "price": "600",
+    "defenses": {
+      "physical": {
+        "base": "21.0",
+        "strike": "19.0",
+        "slash": "20.0",
+        "thrust": "19.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "17.5",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "67",
+      "frost": "69",
+      "poison": "61",
+      "curse": "37"
+    }
+  },
+  "Alonne's Armor": {
+    "name": "Alonne's Armor",
+    "poise": "30.0",
+    "durability": "37",
+    "weight": "14.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.0",
+        "slash": "15.0",
+        "thrust": "14.5"
+      },
+      "elemental": {
+        "magic": "14.0",
+        "fire": "16.0",
+        "lightning": "14.0",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "87",
+      "frost": "43",
+      "poison": "37",
+      "curse": "25"
+    }
+  },
+  "Courtier's Garb": {
+    "name": "Courtier's Garb",
+    "poise": "16.0",
+    "durability": "38",
+    "weight": "8.0",
+    "price": "1,000",
+    "defenses": {
+      "physical": {
+        "base": "10.0",
+        "strike": "8.0",
+        "slash": "9.0",
+        "thrust": "8.5"
+      },
+      "elemental": {
+        "magic": "20.0",
+        "fire": "12.5",
+        "lightning": "12.5",
+        "dark": "20.0"
+      }
+    },
+    "resistances": {
+      "bleed": "62",
+      "frost": "46",
+      "poison": "43",
+      "curse": "28"
+    }
+  },
+  "Slave Knight Armor": {
+    "name": "Slave Knight Armor",
+    "poise": "24.4",
+    "durability": "35",
+    "weight": "8.4",
+    "price": "8",
+    "defenses": {
+      "physical": {
+        "base": "10.5",
+        "strike": "8.5",
+        "slash": "9.5",
+        "thrust": "9.0"
+      },
+      "elemental": {
+        "magic": "10.0",
+        "fire": "14.0",
+        "lightning": "10.0",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "61",
+      "frost": "35",
+      "poison": "347",
+      "curse": "20"
+    }
+  },
+  "Brigand Armor": {
+    "name": "Brigand Armor",
+    "poise": "11.2",
+    "durability": "25",
+    "weight": "5.6",
+    "price": "100",
+    "defenses": {
+      "physical": {
+        "base": "7.5",
+        "strike": "5.5",
+        "slash": "6.5",
+        "thrust": "6.0"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "12.5",
+        "lightning": "14.0",
+        "dark": "10.0"
+      }
+    },
+    "resistances": {
+      "bleed": "37",
+      "frost": "57",
+      "poison": "59",
+      "curse": "37"
+    }
+  },
+  "Xanthous Overcoat": {
+    "name": "Xanthous Overcoat",
+    "poise": "12.0",
+    "durability": "35",
+    "weight": "6.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "8.0",
+        "strike": "6.0",
+        "slash": "7.0",
+        "thrust": "6.5"
+      },
+      "elemental": {
+        "magic": "17.5",
+        "fire": "10.0",
+        "lightning": "17.5",
+        "dark": "17.5"
+      }
+    },
+    "resistances": {
+      "bleed": "39",
+      "frost": "33",
+      "poison": "46",
+      "curse": "22"
+    }
+  },
+  "Eastern Armor": {
+    "name": "Eastern Armor",
+    "poise": "30.",
+    "durability": "37",
+    "weight": "14.0",
+    "price": "500",
+    "defenses": {
+      "physical": {
+        "base": "16.0",
+        "strike": "14.0",
+        "slash": "15.0",
+        "thrust": "14.5"
+      },
+      "elemental": {
+        "magic": "12.5",
+        "fire": "16.0",
+        "lightning": "12.5",
+        "dark": "12.5"
+      }
+    },
+    "resistances": {
+      "bleed": "89",
+      "frost": "43",
+      "poison": "37",
+      "curse": "25"
+    }
+  }
+}
